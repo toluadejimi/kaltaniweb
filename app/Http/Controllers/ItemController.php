@@ -26,24 +26,7 @@ class ItemController extends Controller
     public function index(request $request)
     {
 
-
-        $output = Output::select('name',  'id', 'sn', 'qty')->get();
-        $gmesh = Output::where('id', 2)->first()->qty;
-        $cmesh = Output::where('id', 1)->first()->qty;
-        $lmesh = Output::where('id', 3)->first()->qty;
-        $bs = Output::where('id', 4)->first()->qty;
-        $bf = Output::where('id', 5)->first()->qty;
-        $pl = Output::where('id', 6)->first()->qty;
-
-        $user = Auth::user()->role ?? null;
-
-
-
-
-
-
-
-        return view('welcome', compact('output', 'user', 'gmesh', 'pl', 'cmesh', 'lmesh', 'bs', 'bf'));
+        return view('welcome');
     }
 
 
@@ -960,7 +943,7 @@ class ItemController extends Controller
                 return back()->with('error', 'FULZYME is insufficient to produce Broilers Stater');
             }
 
-         
+
 
 
             $salt = Item::where('id', 12)->first()->qty;
@@ -996,7 +979,7 @@ class ItemController extends Controller
                 $trx->type = 'debit';
                 $trx->balance = $balance;
                 $trx->save();
-    
+
 
             }
 
@@ -1005,7 +988,7 @@ class ItemController extends Controller
 
                 $tbinder = Item::where('id', 11)->decrement('qty', $cm->tbinder);
 
-                
+
                 $balance = Item::where('id', 11)->first()->qty;
                 $trx = new Transaction();
                 $trx->item_id = 11;
@@ -1013,12 +996,12 @@ class ItemController extends Controller
                 $trx->type = 'debit';
                 $trx->balance = $balance;
                 $trx->save();
-    
 
 
-    
+
+
             }
-    
+
 
 
 
@@ -1038,7 +1021,7 @@ class ItemController extends Controller
 
 
 
-           
+
 
 
 
