@@ -3,17 +3,18 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Breno</title>
-    <meta name='robots' content='max-image-preview:large' />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>KALTANI</title>
+    <meta name='robots' content='max-image-preview:large'/>
     <style>
         img:is([sizes="auto" i], [sizes^="auto," i]) {
             contain-intrinsic-size: 3000px 1500px
         }
     </style>
-    <link rel='dns-prefetch' href='https://cdnjs.cloudflare.com/' />
-    <link rel="alternate" type="application/rss+xml" title="Breno &raquo; Feed" href="feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Breno &raquo; Comments Feed" href="comments/feed/index.html" />
+    <link rel='dns-prefetch' href='https://cdnjs.cloudflare.com/'/>
+    <link rel="alternate" type="application/rss+xml" title="KALTANI &raquo; Feed" href="feed/index.html"/>
+    <link rel="alternate" type="application/rss+xml" title="KALTANI &raquo; Comments Feed"
+          href="comments/feed/index.html"/>
     <script>
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/",
@@ -25,7 +26,7 @@
             }
         };
         /*! This file is auto-generated */
-        ! function(i, n) {
+        !function (i, n) {
             var o, s, e;
 
             function c(e) {
@@ -35,14 +36,15 @@
                         timestamp: (new Date).valueOf()
                     };
                     sessionStorage.setItem(o, JSON.stringify(t))
-                } catch (e) {}
+                } catch (e) {
+                }
             }
 
             function p(e, t, n) {
                 e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
                 var t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data),
                     r = (e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0), new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data));
-                return t.every(function(e, t) {
+                return t.every(function (e, t) {
                     return e === r[t]
                 })
             }
@@ -63,7 +65,7 @@
                         willReadFrequently: !0
                     }),
                     o = (a.textBaseline = "top", a.font = "600 32px Arial", {});
-                return e.forEach(function(e) {
+                return e.forEach(function (e) {
                     o[e] = t(a, e, n)
                 }), o
             }
@@ -72,19 +74,21 @@
                 var t = i.createElement("script");
                 t.src = e, t.defer = !0, i.head.appendChild(t)
             }
+
             "undefined" != typeof Promise && (o = "wpEmojiSettingsSupports", s = ["flag", "emoji"], n.supports = {
                 everything: !0,
                 everythingExceptFlag: !0
-            }, e = new Promise(function(e) {
+            }, e = new Promise(function (e) {
                 i.addEventListener("DOMContentLoaded", e, {
                     once: !0
                 })
-            }), new Promise(function(t) {
-                var n = function() {
+            }), new Promise(function (t) {
+                var n = function () {
                     try {
                         var e = JSON.parse(sessionStorage.getItem(o));
                         if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
-                    } catch (e) {}
+                    } catch (e) {
+                    }
                     return null
                 }();
                 if (!n) {
@@ -96,29 +100,36 @@
                             a = new Worker(URL.createObjectURL(r), {
                                 name: "wpTestEmojiSupports"
                             });
-                        return void(a.onmessage = function(e) {
+                        return void (a.onmessage = function (e) {
                             c(n = e.data), a.terminate(), t(n)
                         })
-                    } catch (e) {}
+                    } catch (e) {
+                    }
                     c(n = f(s, u, p))
                 }
                 t(n)
-            }).then(function(e) {
+            }).then(function (e) {
                 for (var t in e) n.supports[t] = e[t], n.supports.everything = n.supports.everything && n.supports[t], "flag" !== t && (n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && n.supports[t]);
-                n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag, n.DOMReady = !1, n.readyCallback = function() {
+                n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag, n.DOMReady = !1, n.readyCallback = function () {
                     n.DOMReady = !0
                 }
-            }).then(function() {
+            }).then(function () {
                 return e
-            }).then(function() {
+            }).then(function () {
                 var e;
                 n.supports.everything || (n.readyCallback(), (e = n.source || {}).concatemoji ? t(e.concatemoji) : e.wpemoji && e.twemoji && (t(e.twemoji), t(e.wpemoji)))
             }))
         }((window, document), window._wpemojiSettings);
     </script>
-    <link rel='stylesheet' id='elementor-frontend-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/frontend.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='elementor-post-874-css' href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-874.css%3Fver=1742894777.css' media='all' />
-    <link rel='stylesheet' id='elementor-post-875-css' href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-875.css%3Fver=1742894777.css' media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/frontend.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='elementor-post-874-css'
+          href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-874.css%3Fver=1742894777.css'
+          media='all'/>
+    <link rel='stylesheet' id='elementor-post-875-css'
+          href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-875.css%3Fver=1742894777.css'
+          media='all'/>
     <style id='wp-emoji-styles-inline-css'>
         img.wp-smiley,
         img.emoji {
@@ -193,32 +204,32 @@
             margin: 0;
         }
 
-        .wp-site-blocks>.alignleft {
+        .wp-site-blocks > .alignleft {
             float: left;
             margin-right: 2em;
         }
 
-        .wp-site-blocks>.alignright {
+        .wp-site-blocks > .alignright {
             float: right;
             margin-left: 2em;
         }
 
-        .wp-site-blocks>.aligncenter {
+        .wp-site-blocks > .aligncenter {
             justify-content: center;
             margin-left: auto;
             margin-right: auto;
         }
 
-        :where(.wp-site-blocks)>* {
+        :where(.wp-site-blocks) > * {
             margin-block-start: 24px;
             margin-block-end: 0;
         }
 
-        :where(.wp-site-blocks)> :first-child {
+        :where(.wp-site-blocks) > :first-child {
             margin-block-start: 0;
         }
 
-        :where(.wp-site-blocks)> :last-child {
+        :where(.wp-site-blocks) > :last-child {
             margin-block-end: 0;
         }
 
@@ -226,28 +237,28 @@
             --wp--style--block-gap: 24px;
         }
 
-        :root :where(.is-layout-flow)> :first-child {
+        :root :where(.is-layout-flow) > :first-child {
             margin-block-start: 0;
         }
 
-        :root :where(.is-layout-flow)> :last-child {
+        :root :where(.is-layout-flow) > :last-child {
             margin-block-end: 0;
         }
 
-        :root :where(.is-layout-flow)>* {
+        :root :where(.is-layout-flow) > * {
             margin-block-start: 24px;
             margin-block-end: 0;
         }
 
-        :root :where(.is-layout-constrained)> :first-child {
+        :root :where(.is-layout-constrained) > :first-child {
             margin-block-start: 0;
         }
 
-        :root :where(.is-layout-constrained)> :last-child {
+        :root :where(.is-layout-constrained) > :last-child {
             margin-block-end: 0;
         }
 
-        :root :where(.is-layout-constrained)>* {
+        :root :where(.is-layout-constrained) > * {
             margin-block-start: 24px;
             margin-block-end: 0;
         }
@@ -260,47 +271,47 @@
             gap: 24px;
         }
 
-        .is-layout-flow>.alignleft {
+        .is-layout-flow > .alignleft {
             float: left;
             margin-inline-start: 0;
             margin-inline-end: 2em;
         }
 
-        .is-layout-flow>.alignright {
+        .is-layout-flow > .alignright {
             float: right;
             margin-inline-start: 2em;
             margin-inline-end: 0;
         }
 
-        .is-layout-flow>.aligncenter {
+        .is-layout-flow > .aligncenter {
             margin-left: auto !important;
             margin-right: auto !important;
         }
 
-        .is-layout-constrained>.alignleft {
+        .is-layout-constrained > .alignleft {
             float: left;
             margin-inline-start: 0;
             margin-inline-end: 2em;
         }
 
-        .is-layout-constrained>.alignright {
+        .is-layout-constrained > .alignright {
             float: right;
             margin-inline-start: 2em;
             margin-inline-end: 0;
         }
 
-        .is-layout-constrained>.aligncenter {
+        .is-layout-constrained > .aligncenter {
             margin-left: auto !important;
             margin-right: auto !important;
         }
 
-        .is-layout-constrained> :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+        .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
             max-width: var(--wp--style--global--content-size);
             margin-left: auto !important;
             margin-right: auto !important;
         }
 
-        .is-layout-constrained>.alignwide {
+        .is-layout-constrained > .alignwide {
             max-width: var(--wp--style--global--wide-size);
         }
 
@@ -313,7 +324,7 @@
             align-items: center;
         }
 
-        .is-layout-flex> :is(*, div) {
+        .is-layout-flex > :is(*, div) {
             margin: 0;
         }
 
@@ -321,7 +332,7 @@
             display: grid;
         }
 
-        .is-layout-grid> :is(*, div) {
+        .is-layout-grid > :is(*, div) {
             margin: 0;
         }
 
@@ -560,119 +571,299 @@
             line-height: 1.6;
         }
     </style>
-    <link rel='stylesheet' id='template-kit-export-css' href='{{url('')}}/public/wp-content/plugins/template-kit-export/assets/public/template-kit-export-public.css%3Fver=1.0.23.css' media='all' />
-    <link rel='stylesheet' id='rkit-offcanvas-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/offcanvas.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-navmenu-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/navmenu.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-headerinfo-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/headerinfo.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='navmenu-rkit-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/rkit-navmenu.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-search-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/search.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-sitelogo-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/site_logo.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-post-grid-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/rkit-blog-post.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-post-block-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/rkit-post-block.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-cta-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/cta.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-blockquote-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/blockquote.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-social-share-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/social_share.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-team-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/rkit_team.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-running_text-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/running_text.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-animated_heading-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/animated_heading.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-card_slider-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/card_slider.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-accordion-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/accordion.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-testimonial_carousel-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/testimonial_carousel.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-swiper-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/swiper-bundle.min.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-tabs-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/tabs.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-progress-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/progress-bar.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='counter-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/counter.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='countdown-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/countdown.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-pricelist-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/pricelist.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='advanced_heading-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/advanced_heading.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='image_comparison-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/image_comparison.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='postlist-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/postlist.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='pricebox-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/pricingbox.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-image_box-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/image_box.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-image_accordion-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/image_accordion.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-dual_button-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/dual_button.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-image_gallery-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/image_gallery.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-home-slider-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/home_slider.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-woo-product-grid-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/woo_product_grid.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-client_grid-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/client_grid.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-barchart-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/barchart.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-linechart-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/linechart.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-piechart-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/piechart.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-back-to-top-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/back_to_top.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='elementor-icons-rtmicon-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/assets/css/rtmicons.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rkit-widget-style-css' href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/assets/css/rkit.css%3Fver=1.5.6.css' media='all' />
-    <link rel='stylesheet' id='rtform-text-style-css' href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rtform_text.css%3Fver=1.2.1.css' media='all' />
-    <link rel='stylesheet' id='rform-style-css' href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform.css%3Fver=1.2.1.css' media='all' />
-    <link rel='stylesheet' id='spinner-style-css' href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/spinner-loading.css%3Fver=1.2.1.css' media='all' />
-    <link rel='stylesheet' id='rform-btn-style-css' href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform-button.css%3Fver=1.2.1.css' media='all' />
-    <link rel='stylesheet' id='rform-select-style-css' href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform-select.css%3Fver=1.2.1.css' media='all' />
-    <link rel='stylesheet' id='rform-radiobutton-style-css' href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform-radiobutton.css%3Fver=1.2.1.css' media='all' />
-    <link rel='stylesheet' id='rform-checkbox-style-css' href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform-checkbox.css%3Fver=1.2.1.css' media='all' />
-    <link rel='stylesheet' id='intlTelInput-css' href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/intlTelInput.css%3Fver=1.2.1.css' media='all' />
-    <link rel='stylesheet' id='cute-alert-css' href='{{url('')}}/public/wp-content/plugins/metform/public/assets/lib/cute-alert/style.css%3Fver=3.9.7.css' media='all' />
-    <link rel='stylesheet' id='text-editor-style-css' href='{{url('')}}/public/wp-content/plugins/metform/public/assets/css/text-editor.css%3Fver=3.9.7.css' media='all' />
-    <link rel='stylesheet' id='hello-elementor-css' href='{{url('')}}/public/wp-content/themes/hello-elementor/style.min.css%3Fver=3.3.0.css' media='all' />
-    <link rel='stylesheet' id='hello-elementor-theme-style-css' href='{{url('')}}/public/wp-content/themes/hello-elementor/theme.min.css%3Fver=3.3.0.css' media='all' />
-    <link rel='stylesheet' id='hello-elementor-header-footer-css' href='{{url('')}}/public/wp-content/themes/hello-elementor/header-footer.min.css%3Fver=3.3.0.css' media='all' />
-    <link rel='stylesheet' id='elementor-post-3-css' href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-3.css%3Fver=1742894777.css' media='all' />
-    <link rel='stylesheet' id='widget-heading-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-heading.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='e-animation-shrink-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='e-animation-fadeInLeft-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='e-animation-fadeInRight-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='swiper-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css%3Fver=8.4.5.css' media='all' />
-    <link rel='stylesheet' id='e-swiper-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='e-animation-fadeInUp-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='widget-image-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-image.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='widget-rating-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-rating.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='e-animation-slideInDown-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/slideInDown.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='e-animation-slideInRight-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='e-animation-slideInLeft-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/slideInLeft.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='e-animation-slideInUp-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/slideInUp.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='widget-counter-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-counter.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='widget-progress-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-progress.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='e-animation-fadeInDown-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='widget-divider-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-divider.min.css%3Fver=3.28.1.css' media='all' />
-    <link rel='stylesheet' id='elementor-post-1070-css' href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-1070.css%3Fver=1742899297.css' media='all' />
-    <link rel='stylesheet' id='ekit-widget-styles-css' href='{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css%3Fver=3.4.7.css' media='all' />
-    <link rel='stylesheet' id='ekit-responsive-css' href='{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css%3Fver=3.4.7.css' media='all' />
-    <link rel='stylesheet' id='elementor-gf-local-poppins-css' href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/google-fonts/css/poppins.css%3Fver=1742335460.css' media='all' />
-    <link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/google-fonts/css/robotoslab.css%3Fver=1742335462.css' media='all' />
-    <link rel='stylesheet' id='elementor-icons-ekiticons-css' href='{{url('')}}/public/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css%3Fver=3.4.7.css' media='all' />
+    <link rel='stylesheet' id='template-kit-export-css'
+          href='{{url('')}}/public/wp-content/plugins/template-kit-export/assets/public/template-kit-export-public.css%3Fver=1.0.23.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-offcanvas-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/offcanvas.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-navmenu-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/navmenu.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-headerinfo-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/headerinfo.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='navmenu-rkit-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/rkit-navmenu.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-search-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/search.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-sitelogo-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/site_logo.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-post-grid-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/rkit-blog-post.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-post-block-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/rkit-post-block.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-cta-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/cta.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-blockquote-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/blockquote.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-social-share-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/social_share.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-team-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/rkit_team.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-running_text-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/running_text.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-animated_heading-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/animated_heading.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-card_slider-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/card_slider.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-accordion-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/accordion.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-testimonial_carousel-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/testimonial_carousel.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-swiper-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/swiper-bundle.min.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-tabs-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/tabs.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-progress-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/progress-bar.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='counter-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/counter.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='countdown-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/countdown.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-pricelist-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/pricelist.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='advanced_heading-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/advanced_heading.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='image_comparison-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/image_comparison.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='postlist-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/postlist.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='pricebox-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/pricingbox.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-image_box-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/image_box.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-image_accordion-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/image_accordion.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-dual_button-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/dual_button.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-image_gallery-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/image_gallery.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-home-slider-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/home_slider.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-woo-product-grid-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/woo_product_grid.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-client_grid-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/client_grid.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-barchart-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/barchart.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-linechart-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/linechart.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-piechart-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/piechart.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-back-to-top-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/css/back_to_top.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='elementor-icons-rtmicon-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/assets/css/rtmicons.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rkit-widget-style-css'
+          href='{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/assets/css/rkit.css%3Fver=1.5.6.css'
+          media='all'/>
+    <link rel='stylesheet' id='rtform-text-style-css'
+          href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rtform_text.css%3Fver=1.2.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='rform-style-css'
+          href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform.css%3Fver=1.2.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='spinner-style-css'
+          href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/spinner-loading.css%3Fver=1.2.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='rform-btn-style-css'
+          href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform-button.css%3Fver=1.2.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='rform-select-style-css'
+          href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform-select.css%3Fver=1.2.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='rform-radiobutton-style-css'
+          href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform-radiobutton.css%3Fver=1.2.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='rform-checkbox-style-css'
+          href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/rform-checkbox.css%3Fver=1.2.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='intlTelInput-css'
+          href='{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/css/intlTelInput.css%3Fver=1.2.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='cute-alert-css'
+          href='{{url('')}}/public/wp-content/plugins/metform/public/assets/lib/cute-alert/style.css%3Fver=3.9.7.css'
+          media='all'/>
+    <link rel='stylesheet' id='text-editor-style-css'
+          href='{{url('')}}/public/wp-content/plugins/metform/public/assets/css/text-editor.css%3Fver=3.9.7.css'
+          media='all'/>
+    <link rel='stylesheet' id='hello-elementor-css'
+          href='{{url('')}}/public/wp-content/themes/hello-elementor/style.min.css%3Fver=3.3.0.css' media='all'/>
+    <link rel='stylesheet' id='hello-elementor-theme-style-css'
+          href='{{url('')}}/public/wp-content/themes/hello-elementor/theme.min.css%3Fver=3.3.0.css' media='all'/>
+    <link rel='stylesheet' id='hello-elementor-header-footer-css'
+          href='{{url('')}}/public/wp-content/themes/hello-elementor/header-footer.min.css%3Fver=3.3.0.css'
+          media='all'/>
+    <link rel='stylesheet' id='elementor-post-3-css'
+          href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-3.css%3Fver=1742894777.css'
+          media='all'/>
+    <link rel='stylesheet' id='widget-heading-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-heading.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-animation-shrink-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-animation-fadeInLeft-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-animation-fadeInRight-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='swiper-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css%3Fver=8.4.5.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-swiper-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-animation-fadeInUp-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='widget-image-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-image.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='widget-rating-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-rating.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-animation-slideInDown-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/slideInDown.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-animation-slideInRight-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-animation-slideInLeft-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/slideInLeft.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-animation-slideInUp-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/slideInUp.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='widget-counter-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-counter.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='widget-progress-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-progress.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='e-animation-fadeInDown-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='widget-divider-css'
+          href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-divider.min.css%3Fver=3.28.1.css'
+          media='all'/>
+    <link rel='stylesheet' id='elementor-post-1070-css'
+          href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-1070.css%3Fver=1742899297.css'
+          media='all'/>
+    <link rel='stylesheet' id='ekit-widget-styles-css'
+          href='{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css%3Fver=3.4.7.css'
+          media='all'/>
+    <link rel='stylesheet' id='ekit-responsive-css'
+          href='{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css%3Fver=3.4.7.css'
+          media='all'/>
+    <link rel='stylesheet' id='elementor-gf-local-poppins-css'
+          href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/google-fonts/css/poppins.css%3Fver=1742335460.css'
+          media='all'/>
+    <link rel='stylesheet' id='elementor-gf-local-robotoslab-css'
+          href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/google-fonts/css/robotoslab.css%3Fver=1742335462.css'
+          media='all'/>
+    <link rel='stylesheet' id='elementor-icons-ekiticons-css'
+          href='{{url('')}}/public/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css%3Fver=3.4.7.css'
+          media='all'/>
     <script src="{{url('')}}/public/wp-includes/js/jquery/jquery.min.js%3Fver=3.7.1" id="jquery-core-js"></script>
-    <script src="{{url('')}}/public/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1" id="jquery-migrate-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/card_slider.js%3Fver=1.5.6" id="card-slider-script-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/animated_heading.js%3Fver=1.5.6" id="animated-heading-script-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/accordion.js%3Fver=1.5.6" id="accordion-script-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/bar_chart.js%3Fver=1.5.6" id="bar_chart-script-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/line_chart.js%3Fver=1.5.6" id="line_chart-script-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/pie_chart.js%3Fver=1.5.6" id="pie_chart-script-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/swiper-bundle.min.js%3Fver=1.5.6" id="swiperjs-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/rtform_text.js%3Fver=1.2.1" id="rtform-text-js-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/rform_select.js%3Fver=1.2.1" id="rform-select-js-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/rform_tel_input.js%3Fver=1.2.1" id="rform-phone-js-js"></script>
+    <script src="{{url('')}}/public/wp-includes/js/jquery/jquery-migrate.min.js%3Fver=3.4.1"
+            id="jquery-migrate-js"></script>
+    <script
+        src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/card_slider.js%3Fver=1.5.6"
+        id="card-slider-script-js"></script>
+    <script
+        src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/animated_heading.js%3Fver=1.5.6"
+        id="animated-heading-script-js"></script>
+    <script
+        src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/accordion.js%3Fver=1.5.6"
+        id="accordion-script-js"></script>
+    <script
+        src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/bar_chart.js%3Fver=1.5.6"
+        id="bar_chart-script-js"></script>
+    <script
+        src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/line_chart.js%3Fver=1.5.6"
+        id="line_chart-script-js"></script>
+    <script
+        src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/pie_chart.js%3Fver=1.5.6"
+        id="pie_chart-script-js"></script>
+    <script
+        src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/swiper-bundle.min.js%3Fver=1.5.6"
+        id="swiperjs-js"></script>
+    <script src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/rtform_text.js%3Fver=1.2.1"
+            id="rtform-text-js-js"></script>
+    <script src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/rform_select.js%3Fver=1.2.1"
+            id="rform-select-js-js"></script>
+    <script src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/rform_tel_input.js%3Fver=1.2.1"
+            id="rform-phone-js-js"></script>
     <script id="rform-script-js-extra">
         var romethemeform_ajax_url = {
             "ajax_url": "https:\/\/kits.krakenbox.net\/breno\/wp-admin\/admin-ajax.php",
             "nonce": "193447a67d"
         };
     </script>
-    <script src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/rform.js%3Fver=1.2.1" id="rform-script-js"></script>
+    <script src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/rform.js%3Fver=1.2.1"
+            id="rform-script-js"></script>
     <script id="intl-tel-input-js-extra">
         var intl_tel_input_script = {
             "url": "https:\/\/kits.krakenbox.net\/breno\/wp-content\/plugins\/romethemeform\/widgets\/assets\/js\/intl_tel_input_utils.js"
         };
     </script>
-    <script src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/intl_tel_input.min.js%3Fver=1.2.1" id="intl-tel-input-js"></script>
-    <script src="{{url('')}}/public/wp-content/plugins/template-kit-export/assets/public/template-kit-export-public.js%3Fver=1.0.23" id="template-kit-export-js"></script>
-    <link rel="https://api.w.org/" href="{{url('')}}/public/wp-json/index.html" />
-    <link rel="alternate" title="JSON" type="application/json" href="{{url('')}}/public/wp-json/wp/v2/pages/1070" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%3Frsd" />
-    <meta name="generator" content="WordPress 6.7.2" />
-    <link rel="canonical" href="index.html" />
-    <link rel='shortlink' href='index.html' />
-    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="{{url('')}}/public/wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fkits.krakenbox.net%252Fbreno%252F" />
-    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="{{url('')}}/public/wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fkits.krakenbox.net%252Fbreno%252F&amp;format=xml" />
-    <meta name="generator" content="Elementor 3.28.1; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-auto">
+    <script
+        src="{{url('')}}/public/wp-content/plugins/romethemeform/widgets/assets/js/intl_tel_input.min.js%3Fver=1.2.1"
+        id="intl-tel-input-js"></script>
+    <script
+        src="{{url('')}}/public/wp-content/plugins/template-kit-export/assets/public/template-kit-export-public.js%3Fver=1.0.23"
+        id="template-kit-export-js"></script>
+    <link rel="https://api.w.org/" href="{{url('')}}/public/wp-json/index.html"/>
+    <link rel="alternate" title="JSON" type="application/json" href="{{url('')}}/public/wp-json/wp/v2/pages/1070"/>
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%3Frsd"/>
+    <meta name="generator" content="WordPress 6.7.2"/>
+    <link rel="canonical" href="index.html"/>
+    <link rel='shortlink' href='index.html'/>
+    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
+          href="{{url('')}}/public/wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fkits.krakenbox.net%252Fbreno%252F"/>
+    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
+          href="{{url('')}}/public/wp-json/oembed/1.0/embed%3Furl=https:%252F%252Fkits.krakenbox.net%252Fbreno%252F&amp;format=xml"/>
+    <meta name="generator"
+          content="Elementor 3.28.1; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-auto">
     <style>
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -693,75 +884,103 @@
             }
         }
     </style>
-    <link rel="icon" href="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Favicon-2-150x150.png" sizes="32x32" />
-    <link rel="icon" href="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Favicon-2.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Favicon-2.png" />
-    <meta name="msapplication-TileImage" content="https://kits.krakenbox.net/breno/{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Favicon-2.png" />
+    <link rel="icon" href="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Favicon-2-150x150.png" sizes="32x32"/>
+    <link rel="icon" href="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Favicon-2.png" sizes="192x192"/>
+    <link rel="apple-touch-icon" href="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Favicon-2.png"/>
+    <meta name="msapplication-TileImage"
+          content="https://kits.krakenbox.net/breno/{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Favicon-2.png"/>
 </head>
 
-<body class="home page-template page-template-elementor_header_footer page page-id-1070 wp-custom-logo wp-embed-responsive theme-default elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-1070">
+<body
+    class="home page-template page-template-elementor_header_footer page page-id-1070 wp-custom-logo wp-embed-responsive theme-default elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-1070">
 <div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
     <div data-elementor-type="wp-post" data-elementor-id="874" class="elementor elementor-874">
-        <div class="elementor-element elementor-element-87cda5a e-flex e-con-boxed e-con e-parent" data-id="87cda5a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-element elementor-element-87cda5a e-flex e-con-boxed e-con e-parent" data-id="87cda5a"
+             data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="e-con-inner">
-                <div class="elementor-element elementor-element-6e754dc e-con-full e-flex e-con e-child" data-id="6e754dc" data-element_type="container">
-                    <div class="elementor-element elementor-element-c158845 elementor-icon-list--layout-inline elementor-widget__width-initial elementor-mobile-align-center elementor-widget-mobile__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                         data-id="c158845" data-element_type="widget" data-widget_type="icon-list.default">
+                <div class="elementor-element elementor-element-6e754dc e-con-full e-flex e-con e-child"
+                     data-id="6e754dc" data-element_type="container">
+                    <div
+                        class="elementor-element elementor-element-c158845 elementor-icon-list--layout-inline elementor-widget__width-initial elementor-mobile-align-center elementor-widget-mobile__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                        data-id="c158845" data-element_type="widget" data-widget_type="icon-list.default">
                         <div class="elementor-widget-container">
                             <ul class="elementor-icon-list-items elementor-inline-items">
                                 <li class="elementor-icon-list-item elementor-inline-item">
                                         <span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-envelope" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg>						</span>
-                                   <a href="mailto:info@kaltani.com"><span style="color: #020202" class="elementor-icon-list-text">info@kaltani.com</span></a>
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-envelope" viewBox="0 0 512 512"
+                                 xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg>						</span>
+                                    <a href="mailto:info@kaltani.com"><span style="color: #020202"
+                                                                            class="elementor-icon-list-text">info@kaltani.com</span></a>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
                                         <span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-map-marker-alt" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>						</span>
-                                   <a href="https://www.google.com/maps/dir//14+Aliu+Animashaun+Ave,+Lekki+Phase+1,+Lagos+106104,+Lagos/@6.4335009,3.3779702,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x103bf52e943fdedb:0x9eaeed65c337f44!2m2!1d3.4603721!2d6.4335075?entry=ttu&g_ep=EgoyMDI1MDQwOC4wIKXMDSoASAFQAw%3D%3D"> <span class="elementor-icon-list-text">14 Aliu Animashaun Ave, Lekki Phase 1, Lagos 106104, Lagos</span></a>
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-map-marker-alt" viewBox="0 0 384 512"
+                                 xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg>						</span>
+                                    <a href="https://www.google.com/maps/dir//14+Aliu+Animashaun+Ave,+Lekki+Phase+1,+Lagos+106104,+Lagos/@6.4335009,3.3779702,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x103bf52e943fdedb:0x9eaeed65c337f44!2m2!1d3.4603721!2d6.4335075?entry=ttu&g_ep=EgoyMDI1MDQwOC4wIKXMDSoASAFQAw%3D%3D">
+                                        <span class="elementor-icon-list-text">14 Aliu Animashaun Ave, Lekki Phase 1, Lagos 106104, Lagos</span></a>
                                 </li>
                             </ul>
                         </div>
                     </div>
-                    <div class="elementor-element elementor-element-6cb99a9 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-initial elementor-hidden-tablet elementor-hidden-mobile elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                         data-id="6cb99a9" data-element_type="widget" data-widget_type="icon-list.default">
+                    <div
+                        class="elementor-element elementor-element-6cb99a9 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-initial elementor-hidden-tablet elementor-hidden-mobile elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                        data-id="6cb99a9" data-element_type="widget" data-widget_type="icon-list.default">
                         <div class="elementor-widget-container">
                             <ul class="elementor-icon-list-items elementor-inline-items">
                                 <li class="elementor-icon-list-item elementor-inline-item">
                                         <span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>						</span>
+							<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512"
+                                 xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>						</span>
                                     <span class="elementor-icon-list-text">Facebook</span>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
                                         <span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fab-x-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>						</span>
+							<svg aria-hidden="true" class="e-font-icon-svg e-fab-x-twitter" viewBox="0 0 512 512"
+                                 xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>						</span>
                                     <span class="elementor-icon-list-text">X Twitter</span>
                                 </li>
                                 <li class="elementor-icon-list-item elementor-inline-item">
                                         <span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>						</span>
+							<svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512"
+                                 xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>						</span>
                                     <span class="elementor-icon-list-text">LinkedIn</span>
                                 </li>
                             </ul>
                         </div>
                     </div>
-                    <div class="elementor-element elementor-element-a2d6906 e-grid-align-tablet-right e-grid-align-mobile-center elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-hidden-desktop elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                         data-id="a2d6906" data-element_type="widget" data-widget_type="social-icons.default">
+                    <div
+                        class="elementor-element elementor-element-a2d6906 e-grid-align-tablet-right e-grid-align-mobile-center elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-hidden-desktop elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
+                        data-id="a2d6906" data-element_type="widget" data-widget_type="social-icons.default">
                         <div class="elementor-widget-container">
                             <div class="elementor-social-icons-wrapper elementor-grid">
                                     <span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-a41649b" target="_blank">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-a41649b"
+                       target="_blank">
 						<span class="elementor-screen-only">Facebook</span>
-                                    <svg class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>                                    </a>
+                                    <svg class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512"
+                                         xmlns="http://www.w3.org/2000/svg"><path
+                                            d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>                                    </a>
                                     </span>
                                 <span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-08bf961" target="_blank">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-08bf961"
+                       target="_blank">
 						<span class="elementor-screen-only">Twitter</span>
-                                    <svg class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>                                    </a>
+                                    <svg class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512"
+                                         xmlns="http://www.w3.org/2000/svg"><path
+                                            d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>                                    </a>
                                     </span>
                                 <span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-64d86b9" target="_blank">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-64d86b9"
+                       target="_blank">
 						<span class="elementor-screen-only">Linkedin</span>
-                                    <svg class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>                                    </a>
+                                    <svg class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512"
+                                         xmlns="http://www.w3.org/2000/svg"><path
+                                            d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>                                    </a>
                                     </span>
                             </div>
                         </div>
@@ -769,60 +988,113 @@
                 </div>
             </div>
         </div>
-        <div class="elementor-element elementor-element-83cda47 e-flex e-con-boxed e-con e-parent" data-id="83cda47" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-element elementor-element-83cda47 e-flex e-con-boxed e-con e-parent" data-id="83cda47"
+             data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="e-con-inner">
-                <div class="elementor-element elementor-element-4fcffd5 e-con-full e-flex e-con e-child" data-id="4fcffd5" data-element_type="container">
-                    <div class="elementor-element elementor-element-31b7a8e elementor-widget elementor-widget-image" data-id="31b7a8e" data-element_type="widget" data-widget_type="image.default">
+                <div class="elementor-element elementor-element-4fcffd5 e-con-full e-flex e-con e-child"
+                     data-id="4fcffd5" data-element_type="container">
+                    <div class="elementor-element elementor-element-31b7a8e elementor-widget elementor-widget-image"
+                         data-id="31b7a8e" data-element_type="widget" data-widget_type="image.default">
                         <div class="elementor-widget-container">
-                            <img fetchpriority="high" width="800" height="266" src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-1024x341.png" class="attachment-large size-large wp-image-919" alt="" srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-1024x341.png 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-300x100.png 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-768x256.png 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-1536x511.png 1536w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-2048x682.png 2048w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-800x266.png 800w"
-                                 sizes="(max-width: 800px) 100vw, 800px" /> </div>
+                            <img fetchpriority="high" width="800" height="266"
+                                 src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-1024x341.png"
+                                 class="attachment-large size-large wp-image-919" alt=""
+                                 srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-1024x341.png 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-300x100.png 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-768x256.png 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-1536x511.png 1536w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-2048x682.png 2048w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-800x266.png 800w"
+                                 sizes="(max-width: 800px) 100vw, 800px"/></div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-e7e9ce6 e-con-full e-flex e-con e-child" data-id="e7e9ce6" data-element_type="container">
-                    <div class="elementor-element elementor-element-c554523 elementor-widget elementor-widget-ekit-nav-menu" data-id="c554523" data-element_type="widget" data-widget_type="ekit-nav-menu.default">
+                <div class="elementor-element elementor-element-e7e9ce6 e-con-full e-flex e-con e-child"
+                     data-id="e7e9ce6" data-element_type="container">
+                    <div
+                        class="elementor-element elementor-element-c554523 elementor-widget elementor-widget-ekit-nav-menu"
+                        data-id="c554523" data-element_type="widget" data-widget_type="ekit-nav-menu.default">
                         <div class="elementor-widget-container">
-                            <nav class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024">
-                                <button class="elementskit-menu-hamburger elementskit-menu-toggler" type="button" aria-label="hamburger-icon">
-                                    <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
+                            <nav class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon=""
+                                 data-hamburger-icon-type="icon" data-responsive-breakpoint="1024">
+                                <button class="elementskit-menu-hamburger elementskit-menu-toggler" type="button"
+                                        aria-label="hamburger-icon">
+                                    <span class="elementskit-menu-hamburger-icon"></span><span
+                                        class="elementskit-menu-hamburger-icon"></span><span
+                                        class="elementskit-menu-hamburger-icon"></span>
                                 </button>
-                                <div id="ekit-megamenu-breno-menus" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default ekit-nav-menu-one-page-no ekit-nav-dropdown-hover">
-                                    <ul id="menu-breno-menus" class="elementskit-navbar-nav elementskit-menu-po-right submenu-click-on-icon">
-                                        <li id="menu-item-1174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1070 current_page_item menu-item-1174 nav-item elementskit-mobile-builder-content active"
-                                            data-vertical-menu=750px><a href="index.html" class="ekit-menu-nav-link active">Home</a></li>
-                                        <li id="menu-item-902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-902 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content"
-                                            data-vertical-menu=750px><a href="index.html#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">About us<i aria-hidden="true" class="icon icon-down-arrow1 elementskit-submenu-indicator"></i></a>
+                                <div id="ekit-megamenu-breno-menus"
+                                     class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default ekit-nav-menu-one-page-no ekit-nav-dropdown-hover">
+                                    <ul id="menu-breno-menus"
+                                        class="elementskit-navbar-nav elementskit-menu-po-right submenu-click-on-icon">
+                                        <li id="menu-item-1174"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1070 current_page_item menu-item-1174 nav-item elementskit-mobile-builder-content active"
+                                            data-vertical-menu=750px><a href="index.html"
+                                                                        class="ekit-menu-nav-link active">Home</a></li>
+                                        <li id="menu-item-902"
+                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-902 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content"
+                                            data-vertical-menu=750px><a href="index.html#"
+                                                                        class="ekit-menu-nav-link ekit-menu-dropdown-toggle">About
+                                                us<i aria-hidden="true"
+                                                     class="icon icon-down-arrow1 elementskit-submenu-indicator"></i></a>
                                             <ul class="elementskit-dropdown elementskit-submenu-panel">
-                                                <li id="menu-item-911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-911 nav-item elementskit-mobile-builder-content"
-                                                    data-vertical-menu=750px><a href="/who-we-are" class=" dropdown-item">Who We Are</a>
-                                                <li id="menu-item-903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-903 nav-item elementskit-mobile-builder-content"
-                                                    data-vertical-menu=750px><a href="/our-story" class=" dropdown-item">Our Story</a>
-                                                <li id="menu-item-904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-904 nav-item elementskit-mobile-builder-content"
-                                                    data-vertical-menu=750px><a href="/team" class=" dropdown-item">Leadership Team</a>
-                                                <li id="menu-item-910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-910 nav-item elementskit-mobile-builder-content"
-                                                    data-vertical-menu=750px><a href="/certification" class=" dropdown-item">Certification & Compliance</a>
-                                         </ul>
+                                                <li id="menu-item-911"
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-911 nav-item elementskit-mobile-builder-content"
+                                                    data-vertical-menu=750px><a href="/who-we-are"
+                                                                                class=" dropdown-item">Who We Are</a>
+                                                <li id="menu-item-903"
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-903 nav-item elementskit-mobile-builder-content"
+                                                    data-vertical-menu=750px><a href="/our-story"
+                                                                                class=" dropdown-item">Our Story</a>
+                                                <li id="menu-item-904"
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-904 nav-item elementskit-mobile-builder-content"
+                                                    data-vertical-menu=750px><a href="/team" class=" dropdown-item">Leadership
+                                                        Team</a>
+                                                <li id="menu-item-910"
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-910 nav-item elementskit-mobile-builder-content"
+                                                    data-vertical-menu=750px><a href="/certification"
+                                                                                class=" dropdown-item">Certification &
+                                                        Compliance</a>
+                                            </ul>
                                         </li>
-                                        <li id="menu-item-900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-900 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="/careers" class="ekit-menu-nav-link">Careers</a></li>
+                                        <li id="menu-item-900"
+                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-900 nav-item elementskit-mobile-builder-content"
+                                            data-vertical-menu=750px><a href="/careers" class="ekit-menu-nav-link">Careers</a>
+                                        </li>
 
-                                        <li id="menu-item-909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-909 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="/media-room" class="ekit-menu-nav-link">Media Room</a></li>
-                                        <li id="menu-item-909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-909 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="http://trashbash.ng" class="ekit-menu-nav-link">Trash Bash</a></li>
+                                        <li id="menu-item-909"
+                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-909 nav-item elementskit-mobile-builder-content"
+                                            data-vertical-menu=750px><a href="/media-room" class="ekit-menu-nav-link">Media
+                                                Room</a></li>
+                                        <li id="menu-item-909"
+                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-909 nav-item elementskit-mobile-builder-content"
+                                            data-vertical-menu=750px><a href="http://trashbash.ng"
+                                                                        class="ekit-menu-nav-link">Trash Bash</a></li>
                                     </ul>
                                     <div class="elementskit-nav-identity-panel">
-                                        <a class="elementskit-nav-logo" href="#" target="" rel=""><img src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo.png" title="Breno-Logo" alt="Breno-Logo" decoding="async" /></a><button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button></div>
+                                        <a class="elementskit-nav-logo" href="#" target="" rel=""><img
+                                                src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo.png"
+                                                title="Breno-Logo" alt="Breno-Logo" decoding="async"/></a>
+                                        <button class="elementskit-menu-close elementskit-menu-toggler" type="button">
+                                            X
+                                        </button>
+                                    </div>
                                 </div>
-                                <div class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div>
+                                <div
+                                    class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div>
                             </nav>
                         </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-fbbda0a e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child" data-id="fbbda0a" data-element_type="container">
-                    <div class="elementor-element elementor-element-801ad35 elementor-align-right elementor-widget elementor-widget-button" data-id="801ad35" data-element_type="widget" data-widget_type="button.default">
+                <div
+                    class="elementor-element elementor-element-fbbda0a e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child"
+                    data-id="fbbda0a" data-element_type="container">
+                    <div
+                        class="elementor-element elementor-element-801ad35 elementor-align-right elementor-widget elementor-widget-button"
+                        data-id="801ad35" data-element_type="widget" data-widget_type="button.default">
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
-                                <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink" href="contact-us">
+                                <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
+                                   href="contact-us">
                                         <span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
-				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
                                         <span class="elementor-button-text">Contact Us</span>
                                         </span>
                                 </a>
@@ -836,6 +1108,386 @@
 </div>
 
 @yield('content')
+
+
+<div class="ekit-template-content-markup ekit-template-content-footer ekit-template-content-theme-support">
+    <div data-elementor-type="wp-post" data-elementor-id="875" class="elementor elementor-875">
+        <div class="elementor-element elementor-element-7515c32 e-flex e-con-boxed e-con e-parent" data-id="7515c32"
+             data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-5fe9efa e-con-full e-flex e-con e-child"
+                     data-id="5fe9efa" data-element_type="container"
+                     data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div
+                        class="elementor-element elementor-element-54e9797 e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="54e9797" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                        <div
+                            class="elementor-element elementor-element-41b86c9 elementor-widget elementor-widget-heading"
+                            data-id="41b86c9" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Ready to Elevate your
+                                    Waste Management.</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-8752481 e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="8752481" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                        <div
+                            class="elementor-element elementor-element-81dbc19 elementor-widget elementor-widget-button"
+                            data-id="81dbc19" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
+                                       href="contact-us">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span class="elementor-button-text">Talk to us</span>
+                                            </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-b613e97 e-con-full e-flex e-con e-child"
+                     data-id="b613e97" data-element_type="container">
+                    <div class="elementor-element elementor-element-66cde89 e-con-full e-flex e-con e-child"
+                         data-id="66cde89" data-element_type="container">
+                        <div
+                            class="elementor-element elementor-element-0531c90 elementor-widget elementor-widget-image"
+                            data-id="0531c90" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img width="800" height="266"
+                                     src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-1024x341.png"
+                                     class="attachment-large size-large wp-image-959" alt=""
+                                     srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-1024x341.png 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-300x100.png 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-768x256.png 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-1536x511.png 1536w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-2048x682.png 2048w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-800x266.png 800w"
+                                     sizes="(max-width: 800px) 100vw, 800px"/></div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-5ff4fe7 elementor-widget elementor-widget-text-editor"
+                            data-id="5ff4fe7" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>Clean-tech waste management, recycling, and carbon sequestration company—designed for
+                                    scale, impact, and sustainability.</p>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-58118e0 e-con-full e-flex e-con e-child"
+                             data-id="58118e0" data-element_type="container">
+                            <div
+                                class="elementor-element elementor-element-07915e0 elementor-widget elementor-widget-heading"
+                                data-id="07915e0" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h5 class="elementor-heading-title elementor-size-default">Follow Us : </h5>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-0bf75ca elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
+                                data-id="0bf75ca" data-element_type="widget"
+                                data-widget_type="social-icons.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-social-icons-wrapper elementor-grid">
+                                            <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-f104d87"
+                       target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+                                            <svg class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512"
+                                                 xmlns="http://www.w3.org/2000/svg"><path
+                                                    d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>                                            </a>
+                                            </span>
+                                        <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-x-twitter-square elementor-repeater-item-d1901c6"
+                       target="_blank">
+						<span class="elementor-screen-only">X-twitter-square</span>
+                                            <svg class="e-font-icon-svg e-fab-x-twitter-square" viewBox="0 0 448 512"
+                                                 xmlns="http://www.w3.org/2000/svg"><path
+                                                    d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm297.1 84L257.3 234.6 379.4 396H283.8L209 298.1 123.3 396H75.8l111-126.9L69.7 116h98l67.7 89.5L313.6 116h47.5zM323.3 367.6L153.4 142.9H125.1L296.9 367.6h26.3z"></path></svg>                                            </a>
+                                            </span>
+                                        <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-bde1053"
+                       target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+                                            <svg class="e-font-icon-svg e-fab-linkedin-in" viewBox="0 0 448 512"
+                                                 xmlns="http://www.w3.org/2000/svg"><path
+                                                    d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg>                                            </a>
+                                            </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-b8ac200 e-con-full e-flex e-con e-child"
+                         data-id="b8ac200" data-element_type="container">
+                        <div
+                            class="elementor-element elementor-element-23d6696 elementor-widget elementor-widget-heading"
+                            data-id="23d6696" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h4 class="elementor-heading-title elementor-size-default">Company</h4>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-d8d7f48 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                            data-id="d8d7f48" data-element_type="widget" data-widget_type="icon-list.default">
+                            <div class="elementor-widget-container">
+                                <ul class="elementor-icon-list-items">
+                                    <li class="elementor-icon-list-item">
+                                        <a href="index.html#">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Home</span>
+                                        </a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <a href="index.html#">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">About Us</span>
+                                        </a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <a href="carrers#">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Carrers</span>
+                                        </a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <a href="media-room">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Media Room</span>
+                                        </a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <a href="https://trashbash.ng">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Transh Bash</span>
+                                        </a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <a href="services">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Contact Us</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-fdc6eee e-con-full e-flex e-con e-child"
+                         data-id="fdc6eee" data-element_type="container">
+                        <div
+                            class="elementor-element elementor-element-84b2f89 elementor-widget elementor-widget-heading"
+                            data-id="84b2f89" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h4 class="elementor-heading-title elementor-size-default">Our Services</h4>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-2f6678a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                            data-id="2f6678a" data-element_type="widget" data-widget_type="icon-list.default">
+                            <div class="elementor-widget-container">
+                                <ul class="elementor-icon-list-items">
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                       <a href="waste"> <span class="elementor-icon-list-text">Waste Collection</span></a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                        <a href="waste-recycling"> <span class="elementor-icon-list-text">Organic Waste Recycling</span></li></a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                        <a href="plastic-recycling"> <span class="elementor-icon-list-text">Plastic Waste Recycling</span></a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                        <a href="furrous">  <span class="elementor-icon-list-text">Ferrous & Non-Ferrous Waste Recycling</span></a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                        <a href="paper">  <span class="elementor-icon-list-text">Paper & Cardboard Waste Recycling</span></a>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                        <a href="glass">  <span class="elementor-icon-list-text">Glass Waste Recycling</span></a>
+                                    </li>
+
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                        <a href="rubber">  <span class="elementor-icon-list-text">Rubber & Tyre Waste Recycling</span></a>
+                                    </li>
+
+
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                        <a href="non">  <span class="elementor-icon-list-text">Non-Recyclable Waste Recovery</span></a>
+                                    </li>
+
+
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                        <a href="construction">  <span class="elementor-icon-list-text">Construction & Demolition Waste Recycling</span></a>
+                                    </li>
+
+
+                                    <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                        <a href="collection">  <span class="elementor-icon-list-text">Collection & Logistics</span></a>
+                                    </li>
+
+
+
+
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-ba92072 e-con-full e-flex e-con e-child"
+                         data-id="ba92072" data-element_type="container">
+                        <div
+                            class="elementor-element elementor-element-0509164 elementor-widget elementor-widget-heading"
+                            data-id="0509164" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h4 class="elementor-heading-title elementor-size-default">Contact Info</h4>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-71d9a79 elementor-widget elementor-widget-text-editor"
+                            data-id="71d9a79" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>Have questions or need assistance? Our team is here to help – don’t hesitate to
+                                    reach out.</p>
+                            </div>
+                        </div>
+{{--                        <div class="elementor-element elementor-element-45cff86 e-con-full e-flex e-con e-child"--}}
+{{--                             data-id="45cff86" data-element_type="container">--}}
+{{--                            <div class="elementor-element elementor-element-a018192 e-con-full e-flex e-con e-child"--}}
+{{--                                 data-id="a018192" data-element_type="container">--}}
+{{--                                <div--}}
+{{--                                    class="elementor-element elementor-element-0f819dd elementor-view-default elementor-widget elementor-widget-icon"--}}
+{{--                                    data-id="0f819dd" data-element_type="widget" data-widget_type="icon.default">--}}
+{{--                                    <div class="elementor-widget-container">--}}
+{{--                                        <div class="elementor-icon-wrapper">--}}
+{{--                                            <div class="elementor-icon">--}}
+{{--                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-phone-alt"--}}
+{{--                                                     viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">--}}
+{{--                                                    <path--}}
+{{--                                                        d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"></path>--}}
+{{--                                                </svg>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                            <div class="elementor-element elementor-element-d4ff7ef e-con-full e-flex e-con e-child"--}}
+{{--                                 data-id="d4ff7ef" data-element_type="container">--}}
+{{--                                <div--}}
+{{--                                    class="elementor-element elementor-element-af3de8e elementor-widget elementor-widget-heading"--}}
+{{--                                    data-id="af3de8e" data-element_type="widget" data-widget_type="heading.default">--}}
+{{--                                    <div class="elementor-widget-container">--}}
+{{--                                        <h5 class="elementor-heading-title elementor-size-default">--}}
+{{--                                            +0761-8523-398</h5>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+                        <div class="elementor-element elementor-element-47f7287 e-con-full e-flex e-con e-child"
+                             data-id="47f7287" data-element_type="container">
+                            <div class="elementor-element elementor-element-6235cd1 e-con-full e-flex e-con e-child"
+                                 data-id="6235cd1" data-element_type="container">
+                                <div
+                                    class="elementor-element elementor-element-9c42517 elementor-view-default elementor-widget elementor-widget-icon"
+                                    data-id="9c42517" data-element_type="widget" data-widget_type="icon.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-icon-wrapper">
+                                            <div class="elementor-icon">
+                                                <svg aria-hidden="true" class="e-font-icon-svg e-fas-envelope"
+                                                     viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                    <path
+                                                        d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-9cf128c e-con-full e-flex e-con e-child"
+                                 data-id="9cf128c" data-element_type="container">
+                                <div
+                                    class="elementor-element elementor-element-d51383a elementor-widget elementor-widget-heading"
+                                    data-id="d51383a" data-element_type="widget" data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                        <h5 class="elementor-heading-title elementor-size-default">
+                                            info@kaltani.com</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <script>
     const lazyloadRunObserver = () => {
@@ -865,46 +1517,100 @@
         document.addEventListener(event, lazyloadRunObserver);
     });
 </script>
-<link rel='stylesheet' id='widget-icon-list-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css%3Fver=3.28.1.css' media='all' />
-<link rel='stylesheet' id='widget-social-icons-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css%3Fver=3.28.1.css' media='all' />
-<link rel='stylesheet' id='e-apple-webkit-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css%3Fver=3.28.1.css' media='all' />
-<link rel='stylesheet' id='font-awesome-5-all-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css%3Fver=3.28.1.css' media='all' />
-<link rel='stylesheet' id='font-awesome-4-shim-css' href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css%3Fver=3.28.1.css' media='all' />
-<link rel='stylesheet' id='elementor-post-1866-css' href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-1866.css%3Fver=1742899284.css' media='all' />
-<link rel='stylesheet' id='elementor-post-1919-css' href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-1919.css%3Fver=1742898393.css' media='all' />
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/offcanvas.js%3Fver=1.5.6" id="rkit-offcanvas-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/navmenu.js%3Fver=1.5.6" id="rkit-navmenu-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/rkit-navmenu.js%3Fver=1.5.6" id="navmenu-rkit-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/social_share.js%3Fver=1.5.6" id="social-share-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/running_text.js%3Fver=1.5.6" id="running-text-script-js"></script>
+<link rel='stylesheet' id='widget-icon-list-css'
+      href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css%3Fver=3.28.1.css'
+      media='all'/>
+<link rel='stylesheet' id='widget-social-icons-css'
+      href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css%3Fver=3.28.1.css'
+      media='all'/>
+<link rel='stylesheet' id='e-apple-webkit-css'
+      href='{{url('')}}/public/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css%3Fver=3.28.1.css'
+      media='all'/>
+<link rel='stylesheet' id='font-awesome-5-all-css'
+      href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css%3Fver=3.28.1.css'
+      media='all'/>
+<link rel='stylesheet' id='font-awesome-4-shim-css'
+      href='{{url('')}}/public/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css%3Fver=3.28.1.css'
+      media='all'/>
+<link rel='stylesheet' id='elementor-post-1866-css'
+      href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-1866.css%3Fver=1742899284.css'
+      media='all'/>
+<link rel='stylesheet' id='elementor-post-1919-css'
+      href='{{url('')}}/public/wp-content/uploads/sites/12/elementor/css/post-1919.css%3Fver=1742898393.css'
+      media='all'/>
+<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/offcanvas.js%3Fver=1.5.6"
+        id="rkit-offcanvas-script-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/navmenu.js%3Fver=1.5.6"
+        id="rkit-navmenu-script-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/rkit-navmenu.js%3Fver=1.5.6"
+    id="navmenu-rkit-script-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/social_share.js%3Fver=1.5.6"
+    id="social-share-script-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/running_text.js%3Fver=1.5.6"
+    id="running-text-script-js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.min.js?ver=1.5.6" id="chartjs-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/testimonial_carousel.js%3Fver=1.5.6" id="rkit-testimonial_carousel-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/tabs.js%3Fver=1.5.6" id="rkit-tabs-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/progress.js%3Fver=1.5.6" id="progress-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/counter.js%3Fver=1.5.6" id="rkit-counter-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/countdown.js%3Fver=1.5.6" id="rkit-countdown-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/image_comparison.js%3Fver=1.5.6" id="rkit-image-comparison-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/image_comparison.js%3Fver=1.5.6" id="rkit-image_comparison-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/image_accordion.js%3Fver=1.5.6" id="rkit-image_accordion-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/image_gallery.js%3Fver=1.5.6" id="rkit-image_gallery-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/masonry.pkgd.min.js%3Fver=1.5.6" id="rkit-image_gallery_mansonry-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/imagesloaded.pkgd.min.js%3Fver=1.5.6" id="rkit-image_gallery_mansonry_loaded-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/home_slider.js%3Fver=1.5.6" id="rkit-home-slider-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/back_to_top.js%3Fver=1.5.6" id="rkit-back-to-top-script-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js%3Fver=3.9.7" id="cute-alert-js"></script>
-<script src="{{url('')}}/public/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js%3Fver=3.3.0" id="hello-theme-frontend-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js%3Fver=3.4.7" id="elementskit-framework-js-frontend-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/testimonial_carousel.js%3Fver=1.5.6"
+    id="rkit-testimonial_carousel-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/tabs.js%3Fver=1.5.6"
+        id="rkit-tabs-script-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/progress.js%3Fver=1.5.6"
+        id="progress-script-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/counter.js%3Fver=1.5.6"
+        id="rkit-counter-script-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/countdown.js%3Fver=1.5.6"
+        id="rkit-countdown-script-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/image_comparison.js%3Fver=1.5.6"
+    id="rkit-image-comparison-script-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/image_comparison.js%3Fver=1.5.6"
+    id="rkit-image_comparison-script-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/image_accordion.js%3Fver=1.5.6"
+    id="rkit-image_accordion-script-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/image_gallery.js%3Fver=1.5.6"
+    id="rkit-image_gallery-script-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/masonry.pkgd.min.js%3Fver=1.5.6"
+    id="rkit-image_gallery_mansonry-script-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/imagesloaded.pkgd.min.js%3Fver=1.5.6"
+    id="rkit-image_gallery_mansonry_loaded-script-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/home_slider.js%3Fver=1.5.6"
+        id="rkit-home-slider-script-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/back_to_top.js%3Fver=1.5.6"
+        id="rkit-back-to-top-script-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js%3Fver=3.9.7"
+        id="cute-alert-js"></script>
+<script src="{{url('')}}/public/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js%3Fver=3.3.0"
+        id="hello-theme-frontend-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js%3Fver=3.4.7"
+    id="elementskit-framework-js-frontend-js"></script>
 <script id="elementskit-framework-js-frontend-js-after">
     var elementskit = {
-        resturl: 'https://kits.krakenbox.net/breno/{{url('')}}/public/wp-json/elementskit/v1/',
+        resturl: '{{url('')}}/public/wp-json/elementskit/v1/',
     }
 </script>
-<script src="{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js%3Fver=3.4.7" id="ekit-widget-scripts-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js%3Fver=8.4.5" id="swiper-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js%3Fver=0.2.1" id="jquery-numerator-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js%3Fver=3.28.1" id="font-awesome-4-shim-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js%3Fver=3.28.1" id="elementor-webpack-runtime-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/js/frontend-modules.min.js%3Fver=3.28.1" id="elementor-frontend-modules-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js%3Fver=3.4.7"
+    id="ekit-widget-scripts-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js%3Fver=8.4.5"
+        id="swiper-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js%3Fver=0.2.1"
+    id="jquery-numerator-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js%3Fver=3.28.1"
+        id="font-awesome-4-shim-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js%3Fver=3.28.1"
+        id="elementor-webpack-runtime-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/js/frontend-modules.min.js%3Fver=3.28.1"
+        id="elementor-frontend-modules-js"></script>
 <script src="{{url('')}}/public/wp-includes/js/jquery/ui/core.min.js%3Fver=1.13.3" id="jquery-ui-core-js"></script>
 <script id="elementor-frontend-js-before">
     var elementorFrontendConfig = {
@@ -1030,23 +1736,25 @@
         },
         "post": {
             "id": 1070,
-            "title": "Breno",
+            "title": "KALTANI",
             "excerpt": "",
             "featuredImage": false
         }
     };
 </script>
-<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/js/frontend.min.js%3Fver=3.28.1" id="elementor-frontend-js"></script>
-<script src="{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js%3Fver=3.4.7" id="animate-circle-js"></script>
+<script src="{{url('')}}/public/wp-content/plugins/elementor/assets/js/frontend.min.js%3Fver=3.28.1"
+        id="elementor-frontend-js"></script>
+<script
+    src="{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js%3Fver=3.4.7"
+    id="animate-circle-js"></script>
 <script id="elementskit-elementor-js-extra">
     var ekit_config = {
         "ajaxurl": "https:\/\/kits.krakenbox.net\/breno\/wp-admin\/admin-ajax.php",
         "nonce": "ad307e8956"
     };
 </script>
-<script src="{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js%3Fver=3.4.7" id="elementskit-elementor-js"></script>
-
-
+<script src="{{url('')}}/public/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js%3Fver=3.4.7"
+        id="elementskit-elementor-js"></script>
 
 
 </body>
