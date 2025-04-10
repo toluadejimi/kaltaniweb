@@ -1,0 +1,378 @@
+.elementor-kit-3 {
+    --e-global-color-primary: #1B1B1B;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #FFFFFF;
+    --e-global-color-0949651: #041a6c;
+    --e-global-color-32be705: rgb(5 67 116 / 80%);
+    --e-global-color-2154057: #FFFFFF;
+    --e-global-color-a91078f: #e9ebff;
+    --e-global-color-7c4edd7: #f8fbff;
+    --e-global-color-a6895b3: #ffffff;
+    --e-global-color-fb7ac68: #EF941F00;
+    --e-global-color-c2b3faf: #E7E7E7;
+    --e-global-typography-primary-font-family: "Poppins";
+    --e-global-typography-primary-font-size: 1rem;
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-primary-line-height: 1em;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Poppins";
+    --e-global-typography-text-font-size: 1rem;
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-text-line-height: 1.6em;
+    --e-global-typography-accent-font-family: "Poppins";
+    --e-global-typography-accent-font-size: 1rem;
+    --e-global-typography-accent-font-weight: 600;
+    --e-global-typography-accent-line-height: 1em;
+    --e-global-typography-105529a-font-family: "Poppins";
+    --e-global-typography-105529a-font-size: 1rem;
+    --e-global-typography-105529a-font-weight: 600;
+    --e-global-typography-105529a-line-height: 1em;
+    --e-global-typography-105529a-letter-spacing: 1.5px;
+    --e-global-typography-ebe4c0a-font-family: "Poppins";
+    --e-global-typography-ebe4c0a-font-size: 5rem;
+    --e-global-typography-ebe4c0a-font-weight: 600;
+    --e-global-typography-ebe4c0a-line-height: 1em;
+    --e-global-typography-7118297-font-family: "Poppins";
+    --e-global-typography-7118297-font-size: 1.5rem;
+    --e-global-typography-7118297-font-weight: 600;
+    --e-global-typography-7118297-line-height: 1.2em;
+    --e-global-typography-a2e0234-font-family: "Poppins";
+    --e-global-typography-a2e0234-font-size: 3rem;
+    --e-global-typography-a2e0234-font-weight: 600;
+    --e-global-typography-a2e0234-line-height: 1.2em;
+    --e-global-typography-da72909-font-family: "Poppins";
+    --e-global-typography-da72909-font-size: 1.1rem;
+    --e-global-typography-da72909-font-weight: 600;
+    --e-global-typography-da72909-line-height: 1.8em;
+    --e-global-typography-ef25647-font-family: "Poppins";
+    --e-global-typography-ef25647-font-size: 1rem;
+    --e-global-typography-ef25647-font-weight: 600;
+    --e-global-typography-ef25647-line-height: 1.2em;
+    --e-global-typography-732687e-font-family: "Poppins";
+    --e-global-typography-732687e-font-size: 4rem;
+    --e-global-typography-a9443e6-font-family: "Poppins";
+    --e-global-typography-a9443e6-font-size: 1.2rem;
+    --e-global-typography-a9443e6-font-weight: 600;
+    --e-global-typography-a9443e6-line-height: 1.2em;
+    --e-global-typography-27b55d9-font-family: "Poppins";
+    --e-global-typography-27b55d9-font-size: 2rem;
+    --e-global-typography-27b55d9-font-weight: 600;
+    --e-global-typography-27b55d9-line-height: 1.3em;
+    --e-global-typography-f1ae082-font-family: "Poppins";
+    --e-global-typography-f1ae082-font-size: 1.3rem;
+    --e-global-typography-f1ae082-font-weight: 400;
+    --e-global-typography-f1ae082-line-height: 1.6em;
+    --e-global-typography-cc5f622-font-family: "Poppins";
+    --e-global-typography-cc5f622-font-size: 0.9rem;
+    --e-global-typography-cc5f622-font-weight: 400;
+    --e-global-typography-cc5f622-line-height: 1em;
+    --e-global-typography-0c99011-font-family: "Poppins";
+    --e-global-typography-0c99011-font-size: 15rem;
+    --e-global-typography-0c99011-font-weight: 600;
+    --e-global-typography-0c99011-line-height: 0.8em;
+    color: var(--e-global-color-text);
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-size: var(--e-global-typography-text-font-size);
+    font-weight: var(--e-global-typography-text-font-weight);
+    line-height: var(--e-global-typography-text-line-height);
+}
+
+.elementor-kit-3 button, .elementor-kit-3 input[type="button"], .elementor-kit-3 input[type="submit"], .elementor-kit-3 .elementor-button {
+    background-color: var(--e-global-color-0949651);
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-size: var(--e-global-typography-accent-font-size);
+    font-weight: var(--e-global-typography-accent-font-weight);
+    line-height: var(--e-global-typography-accent-line-height);
+    color: var(--e-global-color-accent);
+    border-radius: 15px 15px 15px 15px;
+    padding: 20px 35px 20px 35px;
+}
+
+.elementor-kit-3 button:hover, .elementor-kit-3 button:focus, .elementor-kit-3 input[type="button"]:hover, .elementor-kit-3 input[type="button"]:focus, .elementor-kit-3 input[type="submit"]:hover, .elementor-kit-3 input[type="submit"]:focus, .elementor-kit-3 .elementor-button:hover, .elementor-kit-3 .elementor-button:focus {
+    background-color: var(--e-global-color-32be705);
+    color: var(--e-global-color-accent);
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-kit-3 a {
+    color: var(--e-global-color-0949651);
+    font-family: var(--e-global-typography-primary-font-family), Sans-serif;
+    font-size: var(--e-global-typography-primary-font-size);
+    font-weight: var(--e-global-typography-primary-font-weight);
+    line-height: var(--e-global-typography-primary-line-height);
+}
+
+.elementor-kit-3 a:hover {
+    color: var(--e-global-color-32be705);
+}
+
+.elementor-kit-3 h1 {
+    color: var(--e-global-color-2154057);
+    font-family: var(--e-global-typography-ebe4c0a-font-family), Sans-serif;
+    font-size: var(--e-global-typography-ebe4c0a-font-size);
+    font-weight: var(--e-global-typography-ebe4c0a-font-weight);
+    line-height: var(--e-global-typography-ebe4c0a-line-height);
+    letter-spacing: var(--e-global-typography-ebe4c0a-letter-spacing);
+    word-spacing: var(--e-global-typography-ebe4c0a-word-spacing);
+}
+
+.elementor-kit-3 h2 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-a2e0234-font-family), Sans-serif;
+    font-size: var(--e-global-typography-a2e0234-font-size);
+    font-weight: var(--e-global-typography-a2e0234-font-weight);
+    line-height: var(--e-global-typography-a2e0234-line-height);
+    letter-spacing: var(--e-global-typography-a2e0234-letter-spacing);
+    word-spacing: var(--e-global-typography-a2e0234-word-spacing);
+}
+
+.elementor-kit-3 h3 {
+    color: var(--e-global-color-32be705);
+    font-family: var(--e-global-typography-27b55d9-font-family), Sans-serif;
+    font-size: var(--e-global-typography-27b55d9-font-size);
+    font-weight: var(--e-global-typography-27b55d9-font-weight);
+    line-height: var(--e-global-typography-27b55d9-line-height);
+    letter-spacing: var(--e-global-typography-27b55d9-letter-spacing);
+    word-spacing: var(--e-global-typography-27b55d9-word-spacing);
+}
+
+.elementor-kit-3 h4 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-7118297-font-family), Sans-serif;
+    font-size: var(--e-global-typography-7118297-font-size);
+    font-weight: var(--e-global-typography-7118297-font-weight);
+    line-height: var(--e-global-typography-7118297-line-height);
+    letter-spacing: var(--e-global-typography-7118297-letter-spacing);
+    word-spacing: var(--e-global-typography-7118297-word-spacing);
+}
+
+.elementor-kit-3 h5 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-a9443e6-font-family), Sans-serif;
+    font-size: var(--e-global-typography-a9443e6-font-size);
+    font-weight: var(--e-global-typography-a9443e6-font-weight);
+    line-height: var(--e-global-typography-a9443e6-line-height);
+    letter-spacing: var(--e-global-typography-a9443e6-letter-spacing);
+    word-spacing: var(--e-global-typography-a9443e6-word-spacing);
+}
+
+.elementor-kit-3 h6 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-ef25647-font-family), Sans-serif;
+    font-size: var(--e-global-typography-ef25647-font-size);
+    font-weight: var(--e-global-typography-ef25647-font-weight);
+    line-height: var(--e-global-typography-ef25647-line-height);
+    letter-spacing: var(--e-global-typography-ef25647-letter-spacing);
+    word-spacing: var(--e-global-typography-ef25647-word-spacing);
+}
+
+.elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1280px;
+}
+
+.e-con {
+    --container-max-width: 1280px;
+    --container-default-padding-top: 0px;
+    --container-default-padding-right: 0px;
+    --container-default-padding-bottom: 0px;
+    --container-default-padding-left: 0px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-block-end: 20px;
+}
+
+.elementor-element {
+    --widgets-spacing: 20px 20px;
+    --widgets-spacing-row: 20px;
+    --widgets-spacing-column: 20px;
+}
+
+{
+}
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+.site-header .site-branding {
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.site-header {
+    padding-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
+.site-footer .site-branding {
+    flex-direction: column;
+    align-items: stretch;
+}
+
+@media (max-width: 1024px) {
+    .elementor-kit-3 {
+        --e-global-typography-primary-font-size: 0.9rem;
+        --e-global-typography-text-font-size: 0.9rem;
+        --e-global-typography-accent-font-size: 0.9rem;
+        --e-global-typography-105529a-font-size: 0.9rem;
+        --e-global-typography-ebe4c0a-font-size: 3.2rem;
+        --e-global-typography-7118297-font-size: 1.3rem;
+        --e-global-typography-a2e0234-font-size: 2.5rem;
+        --e-global-typography-da72909-font-size: 1rem;
+        --e-global-typography-ef25647-font-size: 0.9rem;
+        --e-global-typography-732687e-font-size: 3rem;
+        --e-global-typography-a9443e6-font-size: 1.1rem;
+        --e-global-typography-27b55d9-font-size: 1.8rem;
+        --e-global-typography-f1ae082-font-size: 1.2rem;
+        --e-global-typography-cc5f622-font-size: 0.9rem;
+        --e-global-typography-0c99011-font-size: 10rem;
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-kit-3 a {
+        font-size: var(--e-global-typography-primary-font-size);
+        line-height: var(--e-global-typography-primary-line-height);
+    }
+
+    .elementor-kit-3 h1 {
+        font-size: var(--e-global-typography-ebe4c0a-font-size);
+        line-height: var(--e-global-typography-ebe4c0a-line-height);
+        letter-spacing: var(--e-global-typography-ebe4c0a-letter-spacing);
+        word-spacing: var(--e-global-typography-ebe4c0a-word-spacing);
+    }
+
+    .elementor-kit-3 h2 {
+        font-size: var(--e-global-typography-a2e0234-font-size);
+        line-height: var(--e-global-typography-a2e0234-line-height);
+        letter-spacing: var(--e-global-typography-a2e0234-letter-spacing);
+        word-spacing: var(--e-global-typography-a2e0234-word-spacing);
+    }
+
+    .elementor-kit-3 h3 {
+        font-size: var(--e-global-typography-27b55d9-font-size);
+        line-height: var(--e-global-typography-27b55d9-line-height);
+        letter-spacing: var(--e-global-typography-27b55d9-letter-spacing);
+        word-spacing: var(--e-global-typography-27b55d9-word-spacing);
+    }
+
+    .elementor-kit-3 h4 {
+        font-size: var(--e-global-typography-7118297-font-size);
+        line-height: var(--e-global-typography-7118297-line-height);
+        letter-spacing: var(--e-global-typography-7118297-letter-spacing);
+        word-spacing: var(--e-global-typography-7118297-word-spacing);
+    }
+
+    .elementor-kit-3 h5 {
+        font-size: var(--e-global-typography-a9443e6-font-size);
+        line-height: var(--e-global-typography-a9443e6-line-height);
+        letter-spacing: var(--e-global-typography-a9443e6-letter-spacing);
+        word-spacing: var(--e-global-typography-a9443e6-word-spacing);
+    }
+
+    .elementor-kit-3 h6 {
+        font-size: var(--e-global-typography-ef25647-font-size);
+        line-height: var(--e-global-typography-ef25647-line-height);
+        letter-spacing: var(--e-global-typography-ef25647-letter-spacing);
+        word-spacing: var(--e-global-typography-ef25647-word-spacing);
+    }
+
+    .elementor-kit-3 button, .elementor-kit-3 input[type="button"], .elementor-kit-3 input[type="submit"], .elementor-kit-3 .elementor-button {
+        font-size: var(--e-global-typography-accent-font-size);
+        line-height: var(--e-global-typography-accent-line-height);
+        padding: 17px 32px 17px 32px;
+    }
+
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 90%;
+    }
+
+    .e-con {
+        --container-max-width: 90%;
+    }
+}
+
+@media (max-width: 767px) {
+    .elementor-kit-3 {
+        --e-global-typography-primary-font-size: 0.8rem;
+        --e-global-typography-text-font-size: 0.8rem;
+        --e-global-typography-accent-font-size: 0.8rem;
+        --e-global-typography-105529a-font-size: 0.8rem;
+        --e-global-typography-ebe4c0a-font-size: 2.5rem;
+        --e-global-typography-7118297-font-size: 1.1rem;
+        --e-global-typography-a2e0234-font-size: 1.9rem;
+        --e-global-typography-da72909-font-size: 0.9rem;
+        --e-global-typography-ef25647-font-size: 0.8rem;
+        --e-global-typography-732687e-font-size: 2.5rem;
+        --e-global-typography-a9443e6-font-size: 1rem;
+        --e-global-typography-27b55d9-font-size: 1.5rem;
+        --e-global-typography-f1ae082-font-size: 1rem;
+        --e-global-typography-cc5f622-font-size: 0.8rem;
+        --e-global-typography-0c99011-font-size: 5rem;
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-kit-3 a {
+        font-size: var(--e-global-typography-primary-font-size);
+        line-height: var(--e-global-typography-primary-line-height);
+    }
+
+    .elementor-kit-3 h1 {
+        font-size: var(--e-global-typography-ebe4c0a-font-size);
+        line-height: var(--e-global-typography-ebe4c0a-line-height);
+        letter-spacing: var(--e-global-typography-ebe4c0a-letter-spacing);
+        word-spacing: var(--e-global-typography-ebe4c0a-word-spacing);
+    }
+
+    .elementor-kit-3 h2 {
+        font-size: var(--e-global-typography-a2e0234-font-size);
+        line-height: var(--e-global-typography-a2e0234-line-height);
+        letter-spacing: var(--e-global-typography-a2e0234-letter-spacing);
+        word-spacing: var(--e-global-typography-a2e0234-word-spacing);
+    }
+
+    .elementor-kit-3 h3 {
+        font-size: var(--e-global-typography-27b55d9-font-size);
+        line-height: var(--e-global-typography-27b55d9-line-height);
+        letter-spacing: var(--e-global-typography-27b55d9-letter-spacing);
+        word-spacing: var(--e-global-typography-27b55d9-word-spacing);
+    }
+
+    .elementor-kit-3 h4 {
+        font-size: var(--e-global-typography-7118297-font-size);
+        line-height: var(--e-global-typography-7118297-line-height);
+        letter-spacing: var(--e-global-typography-7118297-letter-spacing);
+        word-spacing: var(--e-global-typography-7118297-word-spacing);
+    }
+
+    .elementor-kit-3 h5 {
+        font-size: var(--e-global-typography-a9443e6-font-size);
+        line-height: var(--e-global-typography-a9443e6-line-height);
+        letter-spacing: var(--e-global-typography-a9443e6-letter-spacing);
+        word-spacing: var(--e-global-typography-a9443e6-word-spacing);
+    }
+
+    .elementor-kit-3 h6 {
+        font-size: var(--e-global-typography-ef25647-font-size);
+        line-height: var(--e-global-typography-ef25647-line-height);
+        letter-spacing: var(--e-global-typography-ef25647-letter-spacing);
+        word-spacing: var(--e-global-typography-ef25647-word-spacing);
+    }
+
+    .elementor-kit-3 button, .elementor-kit-3 input[type="button"], .elementor-kit-3 input[type="submit"], .elementor-kit-3 .elementor-button {
+        font-size: var(--e-global-typography-accent-font-size);
+        line-height: var(--e-global-typography-accent-line-height);
+        padding: 15px 30px 15px 30px;
+    }
+
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 90%;
+    }
+
+    .e-con {
+        --container-max-width: 90%;
+    }
+}

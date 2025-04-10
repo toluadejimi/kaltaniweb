@@ -1,0 +1,2128 @@
+@extends('layout.main')
+@section('content')
+
+    <div data-elementor-type="wp-page" data-elementor-id="1070" class="elementor elementor-1070">
+        <div class="elementor-element elementor-element-388e07c7 e-flex e-con-boxed e-con e-parent" data-id="388e07c7"
+             data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="e-con-inner">
+                <div
+                    class="elementor-element elementor-element-361e23bb e-con-full e-flex elementor-invisible e-con e-child"
+                    data-id="361e23bb" data-element_type="container"
+                    data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+                    <div class="elementor-element elementor-element-5d000ac3 elementor-widget elementor-widget-heading"
+                         data-id="5d000ac3" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-heading-title elementor-size-default">Waste Management & Recycling
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-612652c0 elementor-widget elementor-widget-heading"
+                         data-id="612652c0" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h1 class="elementor-heading-title elementor-size-default">Turning Waste Into Wealth</h1>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-67f46595 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                        data-id="67f46595" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p>Clean-tech waste management, recycling, and carbon sequestration company—designed for
+                                scale, impact, and sustainability.</p>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-35df1d44 e-con-full e-flex e-con e-child"
+                         data-id="35df1d44" data-element_type="container">
+                        <div
+                            class="elementor-element elementor-element-66b4c0c4 elementor-widget elementor-widget-button"
+                            data-id="66b4c0c4" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
+                                       href="#">
+                                        <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                        <span class="elementor-button-text">Explore Our Services</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-eee1892 elementor-widget elementor-widget-button"
+                            data-id="eee1892" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
+                                       href="#">
+                                        <span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Work With Us</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="elementor-element elementor-element-11bc1bb3 e-con-full elementor-hidden-mobile e-flex elementor-invisible e-con e-child"
+                    data-id="11bc1bb3" data-element_type="container"
+                    data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:29,&quot;url&quot;:&quot;{{url('')}}/public/wp-content\/uploads\/sites\/12\/2025\/03\/waste1.jpg&quot;},{&quot;id&quot;:30,&quot;url&quot;:&quot;{{url('')}}/public/wp-content\/uploads\/sites\/12\/2025\/03\/waste2.jpg&quot;},{&quot;id&quot;:31,&quot;url&quot;:&quot;{{url('')}}/public/wp-content\/uploads\/sites\/12\/2025\/03\/truck2.jpg&quot;}],&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+                    <div class="elementor-element elementor-element-1ff64dd0 e-con-full e-flex e-con e-child"
+                         data-id="1ff64dd0" data-element_type="container">
+                    </div>
+                    <div class="elementor-element elementor-element-12991f31 e-con-full e-flex e-con e-child"
+                         data-id="12991f31" data-element_type="container"
+                         data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                        <div
+                            class="elementor-element elementor-element-6e3288fa elementor-view-default elementor-widget elementor-widget-icon"
+                            data-id="6e3288fa" data-element_type="widget" data-widget_type="icon.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-icon-wrapper">
+                                    <a class="elementor-icon" href="index.html#">
+                                        <i aria-hidden="true" class="icon icon-play-button"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-4b05a0bf e-flex e-con-boxed e-con e-parent" data-id="4b05a0bf"
+             data-element_type="container">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-1d3dd45a e-con-full e-flex e-con e-child"
+                     data-id="1d3dd45a" data-element_type="container">
+                    <div
+                        class="elementor-element elementor-element-7dbe5cdf e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="7dbe5cdf" data-element_type="container"
+                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+                        <div
+                            class="elementor-element elementor-element-c9c25c elementor-widget elementor-widget-heading"
+                            data-id="c9c25c" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h4 class="elementor-heading-title elementor-size-default">Eco-Friendly Approach</h4>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-56b40f7 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                            data-id="56b40f7" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>At Kaltani We are committed to reducing environmental impact through innovative
+                                    recycling solutions.
+                                </p>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-7cf60f0 elementor-widget elementor-widget-button"
+                            data-id="7cf60f0" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
+                                       href="#">
+                                        <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                        <span class="elementor-button-text">Read More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-24ee851b e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="24ee851b" data-element_type="container"
+                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                        <div
+                            class="elementor-element elementor-element-226caffa elementor-widget elementor-widget-heading"
+                            data-id="226caffa" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h4 class="elementor-heading-title elementor-size-default">Advanced Recycling
+                                    Technologies</h4>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-58b097e0 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                            data-id="58b097e0" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>Kaltani uses advanced recycling technologies to process diverse waste materials into
+                                    reusable resource.</p>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-7ca39a7 elementor-widget elementor-widget-button"
+                            data-id="7ca39a7" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
+                                       href="index.html#">
+                                        <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                        <span class="elementor-button-text">Read More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-5343da6f e-flex e-con-boxed e-con e-parent" data-id="5343da6f"
+             data-element_type="container">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-145d52ef e-con-full e-flex e-con e-child"
+                     data-id="145d52ef" data-element_type="container">
+                    <div
+                        class="elementor-element elementor-element-3d793891 elementor-invisible elementor-widget elementor-widget-image"
+                        data-id="3d793891" data-element_type="widget"
+                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}"
+                        data-widget_type="image.default">
+                        <div class="elementor-widget-container">
+                            <img decoding="async" width="1500" height="1000"
+                                 src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker.png"
+                                 class="attachment-full size-full wp-image-126" alt=""
+                                 srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker.png 1500w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/keeping-the-city-clean-cropped-shot-of-a-team-of-g-UGACJYL-300x200.jpg 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/keeping-the-city-clean-cropped-shot-of-a-team-of-g-UGACJYL-1024x683.jpg 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/keeping-the-city-clean-cropped-shot-of-a-team-of-g-UGACJYL-768x512.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/keeping-the-city-clean-cropped-shot-of-a-team-of-g-UGACJYL-800x533.jpg 800w"
+                                 sizes="(max-width: 1500px) 100vw, 1500px"/></div>
+                    </div>
+                </div>
+                <div
+                    class="elementor-element elementor-element-22e7d1ac e-con-full e-flex elementor-invisible e-con e-child"
+                    data-id="22e7d1ac" data-element_type="container"
+                    data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                    <div class="elementor-element elementor-element-88b9369 elementor-widget elementor-widget-heading"
+                         data-id="88b9369" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <div style="margin-top: 50px" class="elementor-heading-title elementor-size-default">Who We Are</div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-5e131aee elementor-widget elementor-widget-heading"
+                         data-id="5e131aee" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h1 class="elementor-heading-title elementor-size-default">Trusted Partner in Waste
+                                Management</h1>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-481f5f81 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                        data-id="481f5f81" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p>KALTANI is a clean-tech waste management and carbon sequestration company revolutionizing
+                                how Nigeria manages waste—from collection to conversion, and from pollution to profit.
+                                We deliver end-to-end, tech-enabled solutions across the full waste stream—including
+                                plastic,
+                                paper, organic, electronic, glass, metal, rubber, medical, construction, and even
+                                non-recyclable
+                                and hazardous waste. Our services are designed to maximize recovery, minimize landfill,
+                                and
+                                accelerate the transition to a truly circular economy.</p>
+
+                            <p>At KALTANI, we don’t just manage waste—we turn it into wealth, resilience, and a cleaner
+                                future for all. <a href="/who-we-are">Learn More</a></p>
+                        </div>
+                    </div>
+                    <div >
+
+                        <div
+                            class="elementor-element elementor-element-66b4c0c4 elementor-widget elementor-widget-button"
+                            data-id="66b4c0c4" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
+                                       href="contact-us">
+                                        <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                        <span class="elementor-button-text">Talk to us</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="elementor-element elementor-element-32c79cc8 e-flex e-con-boxed e-con e-parent" data-id="32c79cc8"
+             data-element_type="container">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-3465696d e-con-full e-flex e-con e-child"
+                     data-id="3465696d" data-element_type="container">
+                    <div
+                        class="elementor-element elementor-element-4a97460a e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="4a97460a" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                        <div
+                            class="elementor-element elementor-element-27395520 elementor-widget elementor-widget-heading"
+                            data-id="27395520" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-heading-title elementor-size-default">Our Services</div>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-5e3189fe elementor-widget elementor-widget-heading"
+                            data-id="5e3189fe" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Sustainable Waste Solutions
+                                    for Every Need</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-66fbace0 e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="66fbace0" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                        <div
+                            class="elementor-element elementor-element-578b323f elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                            data-id="578b323f" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>KALTANI provides tailored, tech-enabled waste collection solutions for households, businesses,
+                                    and industrial facilities. Whether it’s everyday municipal waste or specialized pickup for events
+                                    and projects—we've got it covered.<a href="/services">Learn More</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                {{-- first 4 service--}}
+
+                <div class="elementor-element elementor-element-616e290b e-con-full e-flex e-con e-child"
+                     data-id="616e290b" data-element_type="container">
+
+                    {{-- service 1--}}
+                    <div
+                        class="elementor-element elementor-element-6b69a512 e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="6b69a512" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:600}">
+                        <div class="elementor-element elementor-element-cf15caa elementor-widget elementor-widget-image"
+                             data-id="cf15caa" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img loading="lazy" decoding="async" width="788" height="1024"
+                                     src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker2.png"
+                                     class="attachment-large size-large wp-image-625" alt=""
+                                     srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker2.png 788w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker2.png 231w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker2.png 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker2.png 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker2.png 1000w"
+                                     sizes="(max-width: 788px) 100vw, 788px"/></div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-73402ab3 e-con-full e-transform e-transform e-flex e-con e-child"
+                            data-id="73402ab3" data-element_type="container"
+                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:65,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                            <div
+                                class="elementor-element elementor-element-360e65fb elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon"
+                                data-id="360e65fb" data-element_type="widget" data-widget_type="icon.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-icon-wrapper">
+                                        <div class="elementor-icon">
+                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-truck"
+                                                 viewBox="0 0 640 512" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M624 352h-16V243.9c0-12.7-5.1-24.9-14.1-33.9L494 110.1c-9-9-21.2-14.1-33.9-14.1H416V48c0-26.5-21.5-48-48-48H48C21.5 0 0 21.5 0 48v320c0 26.5 21.5 48 48 48h16c0 53 43 96 96 96s96-43 96-96h128c0 53 43 96 96 96s96-43 96-96h48c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zM160 464c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm320 0c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm80-208H416V144h44.1l99.9 99.9V256z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-7c2ec793 elementor-widget elementor-widget-heading"
+                                data-id="7c2ec793" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Waste Collection</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-1a329e3c elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                                data-id="1a329e3c" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p> KALTANI provides tailored, tech-enabled waste collection solutions for households, businesses...</p>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-4ae287fb elementor-widget elementor-widget-button"
+                                data-id="4ae287fb" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm"
+                                           href="waste-collection">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span style="color: #ffffff" class="elementor-button-text">Learn more</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{-- service 2--}}
+                    <div
+                        class="elementor-element elementor-element-148fdbaa e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="148fdbaa" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+                        <div class="elementor-element elementor-element-d0209a8 elementor-widget elementor-widget-image"
+                             data-id="d0209a8" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img loading="lazy" decoding="async" width="788" height="1024"
+                                     src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/ogarnic.jpg"
+                                     class="attachment-large size-large wp-image-623" alt=""
+                                     srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/ogarnic.jpg 788w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/ogarnic.jpg 231w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/ogarnic.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/ogarnic.jpg 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/ogarnic.jpg 1000w"
+                                     sizes="(max-width: 788px) 100vw, 788px"/></div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-6fb1de35 e-con-full e-transform e-transform e-flex e-con e-child"
+                            data-id="6fb1de35" data-element_type="container"
+                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:65,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                            <div
+                                class="elementor-element elementor-element-42960cfb elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon"
+                                data-id="42960cfb" data-element_type="widget" data-widget_type="icon.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-icon-wrapper">
+                                        <div class="elementor-icon">
+                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-recycle"
+                                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M184.561 261.903c3.232 13.997-12.123 24.635-24.068 17.168l-40.736-25.455-50.867 81.402C55.606 356.273 70.96 384 96.012 384H148c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12H96.115c-75.334 0-121.302-83.048-81.408-146.88l50.822-81.388-40.725-25.448c-12.081-7.547-8.966-25.961 4.879-29.158l110.237-25.45c8.611-1.988 17.201 3.381 19.189 11.99l25.452 110.237zm98.561-182.915l41.289 66.076-40.74 25.457c-12.051 7.528-9 25.953 4.879 29.158l110.237 25.45c8.672 1.999 17.215-3.438 19.189-11.99l25.45-110.237c3.197-13.844-11.99-24.719-24.068-17.168l-40.687 25.424-41.263-66.082c-37.521-60.033-125.209-60.171-162.816 0l-17.963 28.766c-3.51 5.62-1.8 13.021 3.82 16.533l33.919 21.195c5.62 3.512 13.024 1.803 16.536-3.817l17.961-28.743c12.712-20.341 41.973-19.676 54.257-.022zM497.288 301.12l-27.515-44.065c-3.511-5.623-10.916-7.334-16.538-3.821l-33.861 21.159c-5.62 3.512-7.33 10.915-3.818 16.536l27.564 44.112c13.257 21.211-2.057 48.96-27.136 48.96H320V336.02c0-14.213-17.242-21.383-27.313-11.313l-80 79.981c-6.249 6.248-6.249 16.379 0 22.627l80 79.989C302.689 517.308 320 510.3 320 495.989V448h95.88c75.274 0 121.335-82.997 81.408-146.88z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5778205d elementor-widget elementor-widget-heading"
+                                data-id="5778205d" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Organic Waste Recycling</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-9a26224 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                                data-id="9a26224" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p data-pm-slice="1 1 []">At KALTANI, we don’t see organic waste as garbage—we see it as green gold....
+                                    </p>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5395ca03 elementor-widget elementor-widget-button"
+                                data-id="5395ca03" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm"
+                                           href="organic-waste">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span class="elementor-button-text">Learn more</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{-- service 3--}}
+                    <div
+                        class="elementor-element elementor-element-148fdbaa e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="148fdbaa" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+                        <div class="elementor-element elementor-element-d0209a8 elementor-widget elementor-widget-image"
+                             data-id="d0209a8" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img loading="lazy" decoding="async" width="788" height="1024"
+                                     src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/plastic.jpg"
+                                     class="attachment-large size-large wp-image-623" alt=""
+                                     srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/plastic.jpg 788w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/plastic.jpg 231w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/plastic.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/plastic.jpg 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/plastic.jpg 1000w"
+                                     sizes="(max-width: 788px) 100vw, 788px"/></div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-6fb1de35 e-con-full e-transform e-transform e-flex e-con e-child"
+                            data-id="6fb1de35" data-element_type="container"
+                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:65,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                            <div
+                                class="elementor-element elementor-element-42960cfb elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon"
+                                data-id="42960cfb" data-element_type="widget" data-widget_type="icon.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-icon-wrapper">
+                                        <div class="elementor-icon">
+                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-recycle"
+                                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M184.561 261.903c3.232 13.997-12.123 24.635-24.068 17.168l-40.736-25.455-50.867 81.402C55.606 356.273 70.96 384 96.012 384H148c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12H96.115c-75.334 0-121.302-83.048-81.408-146.88l50.822-81.388-40.725-25.448c-12.081-7.547-8.966-25.961 4.879-29.158l110.237-25.45c8.611-1.988 17.201 3.381 19.189 11.99l25.452 110.237zm98.561-182.915l41.289 66.076-40.74 25.457c-12.051 7.528-9 25.953 4.879 29.158l110.237 25.45c8.672 1.999 17.215-3.438 19.189-11.99l25.45-110.237c3.197-13.844-11.99-24.719-24.068-17.168l-40.687 25.424-41.263-66.082c-37.521-60.033-125.209-60.171-162.816 0l-17.963 28.766c-3.51 5.62-1.8 13.021 3.82 16.533l33.919 21.195c5.62 3.512 13.024 1.803 16.536-3.817l17.961-28.743c12.712-20.341 41.973-19.676 54.257-.022zM497.288 301.12l-27.515-44.065c-3.511-5.623-10.916-7.334-16.538-3.821l-33.861 21.159c-5.62 3.512-7.33 10.915-3.818 16.536l27.564 44.112c13.257 21.211-2.057 48.96-27.136 48.96H320V336.02c0-14.213-17.242-21.383-27.313-11.313l-80 79.981c-6.249 6.248-6.249 16.379 0 22.627l80 79.989C302.689 517.308 320 510.3 320 495.989V448h95.88c75.274 0 121.335-82.997 81.408-146.88z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5778205d elementor-widget elementor-widget-heading"
+                                data-id="5778205d" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Plastic Waste Recycling</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-9a26224 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                                data-id="9a26224" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p data-pm-slice="1 1 []">Recycling plastics saves up to 90% of the energy used in producing...</p>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5395ca03 elementor-widget elementor-widget-button"
+                                data-id="5395ca03" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm"
+                                           href="plastic-recycling">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span class="elementor-button-text">Learn more</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{-- service 4--}}
+                    <div
+                        class="elementor-element elementor-element-148fdbaa e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="148fdbaa" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+                        <div class="elementor-element elementor-element-d0209a8 elementor-widget elementor-widget-image"
+                             data-id="d0209a8" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img loading="lazy" decoding="async" width="788" height="1024"
+                                     src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/ferrous.jpg"
+                                     class="attachment-large size-large wp-image-623" alt=""
+                                     srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/ferrous.jpg 788w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/ferrous.jpg 231w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/ferrous.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/ferrous.jpg 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/ferrous.jpg 1000w"
+                                     sizes="(max-width: 788px) 100vw, 788px"/></div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-6fb1de35 e-con-full e-transform e-transform e-flex e-con e-child"
+                            data-id="6fb1de35" data-element_type="container"
+                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:65,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                            <div
+                                class="elementor-element elementor-element-42960cfb elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon"
+                                data-id="42960cfb" data-element_type="widget" data-widget_type="icon.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-icon-wrapper">
+                                        <div class="elementor-icon">
+                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-recycle"
+                                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M184.561 261.903c3.232 13.997-12.123 24.635-24.068 17.168l-40.736-25.455-50.867 81.402C55.606 356.273 70.96 384 96.012 384H148c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12H96.115c-75.334 0-121.302-83.048-81.408-146.88l50.822-81.388-40.725-25.448c-12.081-7.547-8.966-25.961 4.879-29.158l110.237-25.45c8.611-1.988 17.201 3.381 19.189 11.99l25.452 110.237zm98.561-182.915l41.289 66.076-40.74 25.457c-12.051 7.528-9 25.953 4.879 29.158l110.237 25.45c8.672 1.999 17.215-3.438 19.189-11.99l25.45-110.237c3.197-13.844-11.99-24.719-24.068-17.168l-40.687 25.424-41.263-66.082c-37.521-60.033-125.209-60.171-162.816 0l-17.963 28.766c-3.51 5.62-1.8 13.021 3.82 16.533l33.919 21.195c5.62 3.512 13.024 1.803 16.536-3.817l17.961-28.743c12.712-20.341 41.973-19.676 54.257-.022zM497.288 301.12l-27.515-44.065c-3.511-5.623-10.916-7.334-16.538-3.821l-33.861 21.159c-5.62 3.512-7.33 10.915-3.818 16.536l27.564 44.112c13.257 21.211-2.057 48.96-27.136 48.96H320V336.02c0-14.213-17.242-21.383-27.313-11.313l-80 79.981c-6.249 6.248-6.249 16.379 0 22.627l80 79.989C302.689 517.308 320 510.3 320 495.989V448h95.88c75.274 0 121.335-82.997 81.408-146.88z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5778205d elementor-widget elementor-widget-heading"
+                                data-id="5778205d" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Ferrous & Non-Ferrous Waste Recycling</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-9a26224 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                                data-id="9a26224" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p data-pm-slice="1 1 []">At KALTANI, we believe metal never loses....</p>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5395ca03 elementor-widget elementor-widget-button"
+                                data-id="5395ca03" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm"
+                                           href="ferrous">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span class="elementor-button-text">Learn more</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+
+                {{-- secound 4 service--}}
+
+                <div class="elementor-element elementor-element-616e290b e-con-full e-flex e-con e-child"
+                     data-id="616e290b" data-element_type="container">
+                    {{-- service 5--}}
+                    <div
+                        class="elementor-element elementor-element-148fdbaa e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="148fdbaa" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+                        <div class="elementor-element elementor-element-d0209a8 elementor-widget elementor-widget-image"
+                             data-id="d0209a8" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img loading="lazy" decoding="async" width="788" height="1024"
+                                     src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/paper.jpg"
+                                     class="attachment-large size-large wp-image-623" alt=""
+                                     srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/paper.jpg 788w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/paper.jpg 231w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/paper.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/paper.jpg 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/paper.jpg 1000w"
+                                     sizes="(max-width: 788px) 100vw, 788px"/></div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-6fb1de35 e-con-full e-transform e-transform e-flex e-con e-child"
+                            data-id="6fb1de35" data-element_type="container"
+                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:65,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                            <div
+                                class="elementor-element elementor-element-42960cfb elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon"
+                                data-id="42960cfb" data-element_type="widget" data-widget_type="icon.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-icon-wrapper">
+                                        <div class="elementor-icon">
+                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-recycle"
+                                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M184.561 261.903c3.232 13.997-12.123 24.635-24.068 17.168l-40.736-25.455-50.867 81.402C55.606 356.273 70.96 384 96.012 384H148c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12H96.115c-75.334 0-121.302-83.048-81.408-146.88l50.822-81.388-40.725-25.448c-12.081-7.547-8.966-25.961 4.879-29.158l110.237-25.45c8.611-1.988 17.201 3.381 19.189 11.99l25.452 110.237zm98.561-182.915l41.289 66.076-40.74 25.457c-12.051 7.528-9 25.953 4.879 29.158l110.237 25.45c8.672 1.999 17.215-3.438 19.189-11.99l25.45-110.237c3.197-13.844-11.99-24.719-24.068-17.168l-40.687 25.424-41.263-66.082c-37.521-60.033-125.209-60.171-162.816 0l-17.963 28.766c-3.51 5.62-1.8 13.021 3.82 16.533l33.919 21.195c5.62 3.512 13.024 1.803 16.536-3.817l17.961-28.743c12.712-20.341 41.973-19.676 54.257-.022zM497.288 301.12l-27.515-44.065c-3.511-5.623-10.916-7.334-16.538-3.821l-33.861 21.159c-5.62 3.512-7.33 10.915-3.818 16.536l27.564 44.112c13.257 21.211-2.057 48.96-27.136 48.96H320V336.02c0-14.213-17.242-21.383-27.313-11.313l-80 79.981c-6.249 6.248-6.249 16.379 0 22.627l80 79.989C302.689 517.308 320 510.3 320 495.989V448h95.88c75.274 0 121.335-82.997 81.408-146.88z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5778205d elementor-widget elementor-widget-heading"
+                                data-id="5778205d" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Paper Waste Recycling</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-9a26224 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                                data-id="9a26224" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p data-pm-slice="1 1 []">We specialize in the collection and responsible handling of paper ...
+                                    </p>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5395ca03 elementor-widget elementor-widget-button"
+                                data-id="5395ca03" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm"
+                                           href="paper">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span class="elementor-button-text">Learn more</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{-- service 6--}}
+                    <div
+                        class="elementor-element elementor-element-148fdbaa e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="148fdbaa" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+                        <div class="elementor-element elementor-element-d0209a8 elementor-widget elementor-widget-image"
+                             data-id="d0209a8" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img loading="lazy" decoding="async" width="788" height="1024"
+                                     src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/glass.jpg"
+                                     class="attachment-large size-large wp-image-623" alt=""
+                                     srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/glass.jpg 788w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/glass.jpg 231w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/glass.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/glass.jpg 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/glass.jpg 1000w"
+                                     sizes="(max-width: 788px) 100vw, 788px"/></div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-6fb1de35 e-con-full e-transform e-transform e-flex e-con e-child"
+                            data-id="6fb1de35" data-element_type="container"
+                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:65,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                            <div
+                                class="elementor-element elementor-element-42960cfb elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon"
+                                data-id="42960cfb" data-element_type="widget" data-widget_type="icon.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-icon-wrapper">
+                                        <div class="elementor-icon">
+                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-recycle"
+                                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M184.561 261.903c3.232 13.997-12.123 24.635-24.068 17.168l-40.736-25.455-50.867 81.402C55.606 356.273 70.96 384 96.012 384H148c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12H96.115c-75.334 0-121.302-83.048-81.408-146.88l50.822-81.388-40.725-25.448c-12.081-7.547-8.966-25.961 4.879-29.158l110.237-25.45c8.611-1.988 17.201 3.381 19.189 11.99l25.452 110.237zm98.561-182.915l41.289 66.076-40.74 25.457c-12.051 7.528-9 25.953 4.879 29.158l110.237 25.45c8.672 1.999 17.215-3.438 19.189-11.99l25.45-110.237c3.197-13.844-11.99-24.719-24.068-17.168l-40.687 25.424-41.263-66.082c-37.521-60.033-125.209-60.171-162.816 0l-17.963 28.766c-3.51 5.62-1.8 13.021 3.82 16.533l33.919 21.195c5.62 3.512 13.024 1.803 16.536-3.817l17.961-28.743c12.712-20.341 41.973-19.676 54.257-.022zM497.288 301.12l-27.515-44.065c-3.511-5.623-10.916-7.334-16.538-3.821l-33.861 21.159c-5.62 3.512-7.33 10.915-3.818 16.536l27.564 44.112c13.257 21.211-2.057 48.96-27.136 48.96H320V336.02c0-14.213-17.242-21.383-27.313-11.313l-80 79.981c-6.249 6.248-6.249 16.379 0 22.627l80 79.989C302.689 517.308 320 510.3 320 495.989V448h95.88c75.274 0 121.335-82.997 81.408-146.88z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5778205d elementor-widget elementor-widget-heading"
+                                data-id="5778205d" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Glass Waste Recycling</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-9a26224 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                                data-id="9a26224" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p data-pm-slice="1 1 []">At KALTANI, we believe in the enduring value of glass....</p>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5395ca03 elementor-widget elementor-widget-button"
+                                data-id="5395ca03" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm"
+                                           href="glass">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span class="elementor-button-text">Learn more</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{-- service 7--}}
+                    <div
+                        class="elementor-element elementor-element-148fdbaa e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="148fdbaa" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+                        <div class="elementor-element elementor-element-d0209a8 elementor-widget elementor-widget-image"
+                             data-id="d0209a8" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img loading="lazy" decoding="async" width="788" height="1024"
+                                     src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/rubber.jpg"
+                                     class="attachment-large size-large wp-image-623" alt=""
+                                     srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/rubber.jpg 788w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/rubber.jpg 231w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/rubber.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/ferrous.jpg 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/rubber.jpg 1000w"
+                                     sizes="(max-width: 788px) 100vw, 788px"/></div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-6fb1de35 e-con-full e-transform e-transform e-flex e-con e-child"
+                            data-id="6fb1de35" data-element_type="container"
+                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:65,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                            <div
+                                class="elementor-element elementor-element-42960cfb elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon"
+                                data-id="42960cfb" data-element_type="widget" data-widget_type="icon.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-icon-wrapper">
+                                        <div class="elementor-icon">
+                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-recycle"
+                                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M184.561 261.903c3.232 13.997-12.123 24.635-24.068 17.168l-40.736-25.455-50.867 81.402C55.606 356.273 70.96 384 96.012 384H148c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12H96.115c-75.334 0-121.302-83.048-81.408-146.88l50.822-81.388-40.725-25.448c-12.081-7.547-8.966-25.961 4.879-29.158l110.237-25.45c8.611-1.988 17.201 3.381 19.189 11.99l25.452 110.237zm98.561-182.915l41.289 66.076-40.74 25.457c-12.051 7.528-9 25.953 4.879 29.158l110.237 25.45c8.672 1.999 17.215-3.438 19.189-11.99l25.45-110.237c3.197-13.844-11.99-24.719-24.068-17.168l-40.687 25.424-41.263-66.082c-37.521-60.033-125.209-60.171-162.816 0l-17.963 28.766c-3.51 5.62-1.8 13.021 3.82 16.533l33.919 21.195c5.62 3.512 13.024 1.803 16.536-3.817l17.961-28.743c12.712-20.341 41.973-19.676 54.257-.022zM497.288 301.12l-27.515-44.065c-3.511-5.623-10.916-7.334-16.538-3.821l-33.861 21.159c-5.62 3.512-7.33 10.915-3.818 16.536l27.564 44.112c13.257 21.211-2.057 48.96-27.136 48.96H320V336.02c0-14.213-17.242-21.383-27.313-11.313l-80 79.981c-6.249 6.248-6.249 16.379 0 22.627l80 79.989C302.689 517.308 320 510.3 320 495.989V448h95.88c75.274 0 121.335-82.997 81.408-146.88z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5778205d elementor-widget elementor-widget-heading"
+                                data-id="5778205d" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Rubber & Tyre Waste Recycling</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-9a26224 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                                data-id="9a26224" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p data-pm-slice="1 1 []">At KALTANI, we don’t just collect old tyres — we unlock ....</p>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5395ca03 elementor-widget elementor-widget-button"
+                                data-id="5395ca03" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm"
+                                           href="ferrous">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span class="elementor-button-text">Learn more</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    {{-- service 8--}}
+                    <div
+                        class="elementor-element elementor-element-148fdbaa e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="148fdbaa" data-element_type="container"
+                        data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:300}">
+                        <div class="elementor-element elementor-element-d0209a8 elementor-widget elementor-widget-image"
+                             data-id="d0209a8" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img loading="lazy" decoding="async" width="788" height="1024"
+                                     src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/non.jpg"
+                                     class="attachment-large size-large wp-image-623" alt=""
+                                     srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/non.jpg 788w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/non.jpg 231w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/non.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/non.jpg 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/non.jpg 1000w"
+                                     sizes="(max-width: 788px) 100vw, 788px"/></div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-6fb1de35 e-con-full e-transform e-transform e-flex e-con e-child"
+                            data-id="6fb1de35" data-element_type="container"
+                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:65,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                            <div
+                                class="elementor-element elementor-element-42960cfb elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon"
+                                data-id="42960cfb" data-element_type="widget" data-widget_type="icon.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-icon-wrapper">
+                                        <div class="elementor-icon">
+                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-recycle"
+                                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M184.561 261.903c3.232 13.997-12.123 24.635-24.068 17.168l-40.736-25.455-50.867 81.402C55.606 356.273 70.96 384 96.012 384H148c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12H96.115c-75.334 0-121.302-83.048-81.408-146.88l50.822-81.388-40.725-25.448c-12.081-7.547-8.966-25.961 4.879-29.158l110.237-25.45c8.611-1.988 17.201 3.381 19.189 11.99l25.452 110.237zm98.561-182.915l41.289 66.076-40.74 25.457c-12.051 7.528-9 25.953 4.879 29.158l110.237 25.45c8.672 1.999 17.215-3.438 19.189-11.99l25.45-110.237c3.197-13.844-11.99-24.719-24.068-17.168l-40.687 25.424-41.263-66.082c-37.521-60.033-125.209-60.171-162.816 0l-17.963 28.766c-3.51 5.62-1.8 13.021 3.82 16.533l33.919 21.195c5.62 3.512 13.024 1.803 16.536-3.817l17.961-28.743c12.712-20.341 41.973-19.676 54.257-.022zM497.288 301.12l-27.515-44.065c-3.511-5.623-10.916-7.334-16.538-3.821l-33.861 21.159c-5.62 3.512-7.33 10.915-3.818 16.536l27.564 44.112c13.257 21.211-2.057 48.96-27.136 48.96H320V336.02c0-14.213-17.242-21.383-27.313-11.313l-80 79.981c-6.249 6.248-6.249 16.379 0 22.627l80 79.989C302.689 517.308 320 510.3 320 495.989V448h95.88c75.274 0 121.335-82.997 81.408-146.88z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5778205d elementor-widget elementor-widget-heading"
+                                data-id="5778205d" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Non-Recyclable Waste Recovery</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-9a26224 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                                data-id="9a26224" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p data-pm-slice="1 1 []">At KALTANI, we believe even non-recyclables have a role...</p>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5395ca03 elementor-widget elementor-widget-button"
+                                data-id="5395ca03" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm"
+                                           href="non">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span class="elementor-button-text">Learn more</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="elementor-element elementor-element-7200b71f e-con-full e-flex e-con e-child"
+                     data-id="7200b71f" data-element_type="container">
+                    <div
+                        class="elementor-element elementor-element-41461a50 elementor-widget elementor-widget-text-editor"
+                        data-id="41461a50" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p>Start Your Eco-Friendly Journey with Us, <a href="index.html#">Explore Our Services</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-4ac793a e-flex e-con-boxed e-con e-parent" data-id="4ac793a"
+             data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="e-con-inner">
+                <div
+                    class="elementor-element elementor-element-23be5bb8 e-con-full e-flex elementor-invisible e-con e-child"
+                    data-id="23be5bb8" data-element_type="container"
+                    data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+                    <div class="elementor-element elementor-element-6d7161ee elementor-widget elementor-widget-heading"
+                         data-id="6d7161ee" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-heading-title elementor-size-default">Ready to Make a Positive
+                                Impact?
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-303e4ed elementor-widget elementor-widget-heading"
+                         data-id="303e4ed" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h2 class="elementor-heading-title elementor-size-default">Let’s Work Together for a
+                                Cleaner, Greener Future!</h2>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-1af52664 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                        data-id="1af52664" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p>Join hundreds of businesses and communities in adopting sustainable waste management
+                                solutions. Ready to Make a Positive Impact?</p>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-2e891a6 elementor-widget__width-inherit elementor-widget elementor-widget-rform"
+                        data-id="2e891a6" data-element_type="widget" data-widget_type="rform.default">
+                        <div class="elementor-widget-container">
+                            <form action="contact_submit" data-form="1866" action="post">
+                                @csrf
+                                <div class="require-login msg">
+                                    <div class="require-msg-body">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="#FF0000"
+                                             class="bi bi-exclamation-circle-fill" viewBox="0 0 16 16">
+                                            <path
+                                                d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8 4a.905.905 0 0 0-.9.995l.35 3.507a.552.552 0 0 0 1.1 0l.35-3.507A.905.905 0 0 0 8 4zm.002 6a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
+                                        </svg>
+                                        <div style="width: 100% ;">
+                                            <h5>Required Login</h5>
+                                            Please Login for Submit Form.
+                                        </div>
+                                        <div>
+                                            <a type="button" class="close-msg">Close</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="success-submit msg">
+                                    <div class="success-body">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="#4CAF50"
+                                             class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                                            <path
+                                                d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+                                        </svg>
+                                        <div style="width: 100%;">
+                                            <h5>Success</h5>
+                                            Thank you! Form submitted successfully.
+                                        </div>
+                                        <div>
+                                            <a type="button" class="close-msg">Close</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <style>
+                                    .elementor-1866 .elementor-element.elementor-element-e248a14 {
+                                        --display: flex;
+                                        --flex-direction: row;
+                                        --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+                                        --container-widget-height: 100%;
+                                        --container-widget-flex-grow: 1;
+                                        --container-widget-align-self: stretch;
+                                        --flex-wrap-mobile: wrap;
+                                        --align-items: center;
+                                        --gap: 0px 0px;
+                                        --row-gap: 0px;
+                                        --column-gap: 0px;
+                                        --border-radius: 20px 20px 20px 20px;
+                                        --padding-top: 7px;
+                                        --padding-bottom: 7px;
+                                        --padding-left: 7px;
+                                        --padding-right: 7px;
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-e248a14:not(.elementor-motion-effects-element-type-background),
+                                    .elementor-1866 .elementor-element.elementor-element-e248a14 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+                                        background-color: var(--e-global-color-2154057);
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel {
+                                        background-color: var(--e-global-color-2154057);
+                                        padding: 20px 20px 20px 20px;
+                                        margin: 0px 0px 0px 0px;
+                                        font-family: var(--e-global-typography-cc5f622-font-family), Sans-serif;
+                                        font-size: var(--e-global-typography-cc5f622-font-size);
+                                        font-weight: var(--e-global-typography-cc5f622-font-weight);
+                                        line-height: var(--e-global-typography-cc5f622-line-height);
+                                        border-radius: 15px 15px 15px 15px;
+                                        color: var(--e-global-color-primary);
+                                        border-style: none;
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 .iti--separate-dial-code .iti__selected-flag {
+                                        background-color: var(--e-global-color-c2b3faf);
+                                        font-family: var(--e-global-typography-cc5f622-font-family), Sans-serif;
+                                        font-size: var(--e-global-typography-cc5f622-font-size);
+                                        font-weight: var(--e-global-typography-cc5f622-font-weight);
+                                        line-height: var(--e-global-typography-cc5f622-line-height);
+                                        border-radius: 15px 15px 15px 15px;
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 {
+                                        width: var(--container-widget-width, 65%);
+                                        max-width: 65%;
+                                        --container-widget-width: 65%;
+                                        --container-widget-flex-grow: 0;
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel:hover {
+                                        color: var(--e-global-color-primary);
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel:focus {
+                                        color: var(--e-global-color-primary);
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel[aria-invalid="true"] {
+                                        color: var(--e-global-color-0949651);
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel::placeholder {
+                                        color: var(--e-global-color-text);
+                                        font-family: var(--e-global-typography-cc5f622-font-family), Sans-serif;
+                                        font-size: var(--e-global-typography-cc5f622-font-size);
+                                        font-weight: var(--e-global-typography-cc5f622-font-weight);
+                                        line-height: var(--e-global-typography-cc5f622-line-height);
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel::-webkit-input-placeholder {
+                                        color: var(--e-global-color-text);
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel::-ms-input-placeholder {
+                                        color: var(--e-global-color-text);
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-error {
+                                        text-align: left;
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-04c8959 {
+                                        width: var(--container-widget-width, 35%);
+                                        max-width: 35%;
+                                        --container-widget-width: 35%;
+                                        --container-widget-flex-grow: 0;
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-04c8959 .rform-button-submit {
+                                        padding: 22px 20px 22px 20px;
+                                        border-style: none;
+                                    }
+
+                                    .elementor-1866 .elementor-element.elementor-element-04c8959 .rform-button-submit,
+                                    .elementor-1866 .elementor-element.elementor-element-04c8959 .loading {
+                                        border-radius: 15px 15px 15px 15px;
+                                    }
+
+                                    @media (max-width: 1024px) {
+                                        .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+
+                                        .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel::placeholder {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+
+                                        .elementor-1866 .elementor-element.elementor-element-afcbf19 .iti--separate-dial-code .iti__selected-flag {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+                                    }
+
+                                    @media (max-width: 767px) {
+                                        .elementor-1866 .elementor-element.elementor-element-e248a14 {
+                                            --flex-direction: column;
+                                            --container-widget-width: 100%;
+                                            --container-widget-height: initial;
+                                            --container-widget-flex-grow: 0;
+                                            --container-widget-align-self: initial;
+                                            --flex-wrap-mobile: wrap;
+                                            --gap: 10px 0px;
+                                            --row-gap: 10px;
+                                            --column-gap: 0px;
+                                        }
+
+                                        .elementor-1866 .elementor-element.elementor-element-afcbf19 {
+                                            --container-widget-width: 100%;
+                                            --container-widget-flex-grow: 0;
+                                            width: var(--container-widget-width, 100%);
+                                            max-width: 100%;
+                                        }
+
+                                        .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+
+                                        .elementor-1866 .elementor-element.elementor-element-afcbf19 .rform-input-tel::placeholder {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+
+                                        .elementor-1866 .elementor-element.elementor-element-afcbf19 .iti--separate-dial-code .iti__selected-flag {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+
+                                        .elementor-1866 .elementor-element.elementor-element-04c8959 {
+                                            width: var(--container-widget-width, 100%);
+                                            max-width: 100%;
+                                            --container-widget-width: 100%;
+                                            --container-widget-flex-grow: 0;
+                                        }
+                                    }
+                                </style>
+                                <div data-elementor-type="wp-post" data-elementor-id="1866"
+                                     class="elementor elementor-1866">
+
+                                    <form action="contact_submit" data-form="1866" action="post">
+                                        @csrf
+
+                                    <div
+                                        class="elementor-element elementor-element-e248a14 e-con-full e-flex e-con e-parent"
+                                        data-id="e248a14" data-element_type="container"
+                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                        <button class="rform-button-submit rform-btn-fullwidth"
+                                                type="submit">
+                                            Talk to us
+                                            <div class="loading">
+                                                <div id="loading"></div>
+                                            </div>
+                                        </button>
+
+                                    </div>
+
+                                    </form>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-694978df e-flex e-con-boxed e-con e-parent" data-id="694978df"
+             data-element_type="container">
+            <div class="e-con-inner">
+                <div
+                    class="elementor-element elementor-element-2144122 e-con-full e-flex elementor-invisible e-con e-child"
+                    data-id="2144122" data-element_type="container"
+                    data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                    <div class="elementor-element elementor-element-8dd9dee elementor-widget elementor-widget-heading"
+                         data-id="8dd9dee" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-heading-title elementor-size-default">Impact & Statistics</div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-ae139d8 elementor-widget elementor-widget-heading"
+                         data-id="ae139d8" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h2 class="elementor-heading-title elementor-size-default">Environmental Impact</h2>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-72c039b8 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                        data-id="72c039b8" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p>At KALTANI, every ton of waste we process tells a story—of cleaner cities, empowered
+                                communities, and a healthier planet. Our environmental impact is real, measurable, and built into
+                                everything we do.</p>
+                        </div>
+                    </div>
+
+
+
+                    <div class="elementor-element elementor-element-ae139d8 elementor-widget elementor-widget-heading"
+                         data-id="ae139d8" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h4 class="elementor-heading-title elementor-size-default">Certified Plastic Recovery with Verra Standards</h4>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-72c039b8 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                        data-id="72c039b8" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p>KALTANI issues Verra Plastic Credits under the world’s leading plastic waste recovery
+                                standard. These credits are generated by collecting, sorting, and processing plastic waste that
+                                would otherwise leak into the environment.</p>
+
+
+                                With Verra’s rigorous third-party verification and our transparent tracking systems, we offer:
+                            <ul style="margin-left: -35px; margin-top: 10px">
+                                <li>
+                                    <svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_5870_3496)">
+                                            <path d="M7 0.234375C10.7461 0.234375 13.7812 3.48633 13.7812 7.5C13.7812 11.5137 10.7461 14.7656 7 14.7656C3.25391 14.7656 0.21875 11.5137 0.21875 7.5C0.21875 3.48633 3.25391 0.234375 7 0.234375ZM6.20977 4.44141L8.27422 6.5625H3.28125C2.91758 6.5625 2.625 6.87598 2.625 7.26562V7.73438C2.625 8.12402 2.91758 8.4375 3.28125 8.4375H8.27422L6.20977 10.5586C5.94453 10.8311 5.93906 11.2852 6.19883 11.5635L6.49961 11.8828C6.75664 12.1582 7.17227 12.1582 7.42656 11.8828L11.0551 7.99805C11.3121 7.72266 11.3121 7.27734 11.0551 7.00488L7.42656 3.11426C7.16953 2.83887 6.75391 2.83887 6.49961 3.11426L6.19883 3.43359C5.93906 3.71484 5.94453 4.16895 6.20977 4.44141Z" fill="#16098C"/>
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_5870_3496">
+                                                <rect width="14" height="15" fill="white"/>
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+
+                                    Credible plastic neutrality solutions for brands and producers</li>
+                                <li>
+                                    <svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_5870_3496)">
+                                            <path d="M7 0.234375C10.7461 0.234375 13.7812 3.48633 13.7812 7.5C13.7812 11.5137 10.7461 14.7656 7 14.7656C3.25391 14.7656 0.21875 11.5137 0.21875 7.5C0.21875 3.48633 3.25391 0.234375 7 0.234375ZM6.20977 4.44141L8.27422 6.5625H3.28125C2.91758 6.5625 2.625 6.87598 2.625 7.26562V7.73438C2.625 8.12402 2.91758 8.4375 3.28125 8.4375H8.27422L6.20977 10.5586C5.94453 10.8311 5.93906 11.2852 6.19883 11.5635L6.49961 11.8828C6.75664 12.1582 7.17227 12.1582 7.42656 11.8828L11.0551 7.99805C11.3121 7.72266 11.3121 7.27734 11.0551 7.00488L7.42656 3.11426C7.16953 2.83887 6.75391 2.83887 6.49961 3.11426L6.19883 3.43359C5.93906 3.71484 5.94453 4.16895 6.20977 4.44141Z" fill="#16098C"/>
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_5870_3496">
+                                                <rect width="14" height="15" fill="white"/>
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                    Traceable recovery operations</li>
+                                <li> <svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_5870_3496)">
+                                            <path d="M7 0.234375C10.7461 0.234375 13.7812 3.48633 13.7812 7.5C13.7812 11.5137 10.7461 14.7656 7 14.7656C3.25391 14.7656 0.21875 11.5137 0.21875 7.5C0.21875 3.48633 3.25391 0.234375 7 0.234375ZM6.20977 4.44141L8.27422 6.5625H3.28125C2.91758 6.5625 2.625 6.87598 2.625 7.26562V7.73438C2.625 8.12402 2.91758 8.4375 3.28125 8.4375H8.27422L6.20977 10.5586C5.94453 10.8311 5.93906 11.2852 6.19883 11.5635L6.49961 11.8828C6.75664 12.1582 7.17227 12.1582 7.42656 11.8828L11.0551 7.99805C11.3121 7.72266 11.3121 7.27734 11.0551 7.00488L7.42656 3.11426C7.16953 2.83887 6.75391 2.83887 6.49961 3.11426L6.19883 3.43359C5.93906 3.71484 5.94453 4.16895 6.20977 4.44141Z" fill="#16098C"/>
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_5870_3496">
+                                                <rect width="14" height="15" fill="white"/>
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                    Impactful ESG contributions for climate-conscious partners</li>
+                            </ul>
+
+
+                        </div>
+                    </div>
+
+
+                    <div class="elementor-element elementor-element-7b22aa70 e-con-full e-flex e-con e-child"
+                         data-id="7b22aa70" data-element_type="container">
+                    </div>
+                </div>
+                <div
+                    class="elementor-element elementor-element-2144122 e-con-full e-flex elementor-invisible e-con e-child"
+                    data-id="2144122" data-element_type="container"
+                    data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                    <div class="elementor-element elementor-element-8dd9dee elementor-widget elementor-widget-heading"
+                         data-id="8dd9dee" data-element_type="widget" data-widget_type="heading.default">
+
+
+                    </div>
+
+
+
+                    <div class="elementor-element elementor-element-ae139d8 elementor-widget elementor-widget-heading"
+                         data-id="ae139d8" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h4 class="elementor-heading-title elementor-size-default">High-Integrity Carbon Credit</h4>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-72c039b8 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                        data-id="72c039b8" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p>Verified Emission Reductions That Drive Global Impact
+                                We generate high-integrity, compliant carbon credits by diverting waste from open dumps and
+                                reducing methane and CO₂ emissions through recycling and RDF-based waste-to-energy processes.</p>
+
+
+                            Built on robust MRV (Measurement, Reporting, and Verification) frameworks, our carbon credits:
+                            <ul style="margin-left: -35px; margin-top: 10px">
+                                <li>
+                                    <svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_5870_3496)">
+                                            <path d="M7 0.234375C10.7461 0.234375 13.7812 3.48633 13.7812 7.5C13.7812 11.5137 10.7461 14.7656 7 14.7656C3.25391 14.7656 0.21875 11.5137 0.21875 7.5C0.21875 3.48633 3.25391 0.234375 7 0.234375ZM6.20977 4.44141L8.27422 6.5625H3.28125C2.91758 6.5625 2.625 6.87598 2.625 7.26562V7.73438C2.625 8.12402 2.91758 8.4375 3.28125 8.4375H8.27422L6.20977 10.5586C5.94453 10.8311 5.93906 11.2852 6.19883 11.5635L6.49961 11.8828C6.75664 12.1582 7.17227 12.1582 7.42656 11.8828L11.0551 7.99805C11.3121 7.72266 11.3121 7.27734 11.0551 7.00488L7.42656 3.11426C7.16953 2.83887 6.75391 2.83887 6.49961 3.11426L6.19883 3.43359C5.93906 3.71484 5.94453 4.16895 6.20977 4.44141Z" fill="#16098C"/>
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_5870_3496">
+                                                <rect width="14" height="15" fill="white"/>
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+
+                                    Meet global carbon market compliance standards</li>
+                                <li>
+                                    <svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_5870_3496)">
+                                            <path d="M7 0.234375C10.7461 0.234375 13.7812 3.48633 13.7812 7.5C13.7812 11.5137 10.7461 14.7656 7 14.7656C3.25391 14.7656 0.21875 11.5137 0.21875 7.5C0.21875 3.48633 3.25391 0.234375 7 0.234375ZM6.20977 4.44141L8.27422 6.5625H3.28125C2.91758 6.5625 2.625 6.87598 2.625 7.26562V7.73438C2.625 8.12402 2.91758 8.4375 3.28125 8.4375H8.27422L6.20977 10.5586C5.94453 10.8311 5.93906 11.2852 6.19883 11.5635L6.49961 11.8828C6.75664 12.1582 7.17227 12.1582 7.42656 11.8828L11.0551 7.99805C11.3121 7.72266 11.3121 7.27734 11.0551 7.00488L7.42656 3.11426C7.16953 2.83887 6.75391 2.83887 6.49961 3.11426L6.19883 3.43359C5.93906 3.71484 5.94453 4.16895 6.20977 4.44141Z" fill="#16098C"/>
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_5870_3496">
+                                                <rect width="14" height="15" fill="white"/>
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                    Unlock scalable climate financing for local governments</li>
+                                <li> <svg width="14" height="15" viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <g clip-path="url(#clip0_5870_3496)">
+                                            <path d="M7 0.234375C10.7461 0.234375 13.7812 3.48633 13.7812 7.5C13.7812 11.5137 10.7461 14.7656 7 14.7656C3.25391 14.7656 0.21875 11.5137 0.21875 7.5C0.21875 3.48633 3.25391 0.234375 7 0.234375ZM6.20977 4.44141L8.27422 6.5625H3.28125C2.91758 6.5625 2.625 6.87598 2.625 7.26562V7.73438C2.625 8.12402 2.91758 8.4375 3.28125 8.4375H8.27422L6.20977 10.5586C5.94453 10.8311 5.93906 11.2852 6.19883 11.5635L6.49961 11.8828C6.75664 12.1582 7.17227 12.1582 7.42656 11.8828L11.0551 7.99805C11.3121 7.72266 11.3121 7.27734 11.0551 7.00488L7.42656 3.11426C7.16953 2.83887 6.75391 2.83887 6.49961 3.11426L6.19883 3.43359C5.93906 3.71484 5.94453 4.16895 6.20977 4.44141Z" fill="#16098C"/>
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_5870_3496">
+                                                <rect width="14" height="15" fill="white"/>
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                    Deliver real, measurable emission reductions</li>
+                            </ul>
+
+
+                        </div>
+                    </div>
+
+
+                    <div class="elementor-element elementor-element-7b22aa70 e-con-full e-flex e-con e-child"
+                         data-id="7b22aa70" data-element_type="container">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-510f6fed e-flex e-con-boxed e-con e-parent" data-id="510f6fed"
+             data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="e-con-inner">
+                <div
+                    class="elementor-element elementor-element-214ec5a e-con-full elementor-hidden-mobile e-flex e-con e-child"
+                    data-id="214ec5a" data-element_type="container"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;}">
+                    <div
+                        class="elementor-element elementor-element-3402a52e e-con-full e-flex elementor-invisible e-con e-child"
+                        data-id="3402a52e" data-element_type="container"
+                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_delay&quot;:300}">
+                        <div
+                            class="elementor-element elementor-element-30ae98b elementor-view-default elementor-widget elementor-widget-icon"
+                            data-id="30ae98b" data-element_type="widget" data-widget_type="icon.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-icon-wrapper">
+                                    <div class="elementor-icon">
+                                        <svg aria-hidden="true" class="e-font-icon-svg e-fas-recycle"
+                                             viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M184.561 261.903c3.232 13.997-12.123 24.635-24.068 17.168l-40.736-25.455-50.867 81.402C55.606 356.273 70.96 384 96.012 384H148c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12H96.115c-75.334 0-121.302-83.048-81.408-146.88l50.822-81.388-40.725-25.448c-12.081-7.547-8.966-25.961 4.879-29.158l110.237-25.45c8.611-1.988 17.201 3.381 19.189 11.99l25.452 110.237zm98.561-182.915l41.289 66.076-40.74 25.457c-12.051 7.528-9 25.953 4.879 29.158l110.237 25.45c8.672 1.999 17.215-3.438 19.189-11.99l25.45-110.237c3.197-13.844-11.99-24.719-24.068-17.168l-40.687 25.424-41.263-66.082c-37.521-60.033-125.209-60.171-162.816 0l-17.963 28.766c-3.51 5.62-1.8 13.021 3.82 16.533l33.919 21.195c5.62 3.512 13.024 1.803 16.536-3.817l17.961-28.743c12.712-20.341 41.973-19.676 54.257-.022zM497.288 301.12l-27.515-44.065c-3.511-5.623-10.916-7.334-16.538-3.821l-33.861 21.159c-5.62 3.512-7.33 10.915-3.818 16.536l27.564 44.112c13.257 21.211-2.057 48.96-27.136 48.96H320V336.02c0-14.213-17.242-21.383-27.313-11.313l-80 79.981c-6.249 6.248-6.249 16.379 0 22.627l80 79.989C302.689 517.308 320 510.3 320 495.989V448h95.88c75.274 0 121.335-82.997 81.408-146.88z"></path>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-6ba947c8 elementor-widget elementor-widget-heading"
+                            data-id="6ba947c8" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h5 class="elementor-heading-title elementor-size-default">We continuously strive to
+                                    improve waste management and recycling to create a cleaner and more sustainable
+                                    environment.</h5>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-5a1410a2 elementor-widget elementor-widget-button"
+                            data-id="5a1410a2" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm"
+                                       href="index.html#">
+                                        <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                        <span class="elementor-button-text">Read More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="elementor-element elementor-element-3a3887be e-con-full e-flex elementor-invisible e-con e-child"
+                    data-id="3a3887be" data-element_type="container"
+                    data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                    <div class="elementor-element elementor-element-274022ac elementor-widget elementor-widget-heading"
+                         data-id="274022ac" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-heading-title elementor-size-default">Industries We Serve</div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-123f2682 elementor-widget elementor-widget-heading"
+                         data-id="123f2682" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h2 class="elementor-heading-title elementor-size-default">One Mission. Many Sectors. Real Impact.</h2>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-2de12c0f elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
+                        data-id="2de12c0f" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <p style="font-size: 12px">At KALTANI, we provide tailored waste management and recycling solutions across a wide
+                                range of industries—because waste looks different everywhere, but our mission stays the same:
+                                to turn it into value.</p>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-37b2641e e-con-full e-flex e-con e-child"
+                         data-id="37b2641e" data-element_type="container">
+                        <div
+                            class="elementor-element elementor-element-56225efe elementor-widget elementor-widget-heading"
+                            data-id="56225efe" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h6 class="elementor-heading-title elementor-size-default">Corporations & Manufacturers</h6>
+                            </div>
+
+
+                        </div>
+
+                        <p style="font-size: 11px">From packaging waste to production scraps, we help manufacturers close the loop with
+                            sustainable recycling programs, plastic credit solutions, and ESG-aligned waste tracking
+                            systems.</p>
+
+
+
+                        <div
+                            class="elementor-element elementor-element-56225efe elementor-widget elementor-widget-heading"
+                            data-id="56225efe" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h6 class="elementor-heading-title elementor-size-default">Households & Markets</h6>
+                            </div>
+
+
+                        </div>
+
+                        <p style="font-size: 11px">We work directly with communities, residential areas, and informal markets to ensure safe,
+                            consistent waste collection and recycling—keeping neighborhoods clean and empowering local
+                            livelihoods.</p>
+
+
+
+                        <p style="font-size: 11px">From packaging waste to production scraps, we help manufacturers close the loop with
+                            sustainable recycling programs, plastic credit solutions, and ESG-aligned waste tracking
+                            systems.</p>
+
+
+
+                        <div
+                            class="elementor-element elementor-element-56225efe elementor-widget elementor-widget-heading"
+                            data-id="56225efe" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h6 class="elementor-heading-title elementor-size-default">Municipalities & Government Agencies</h6>
+                            </div>
+
+
+                        </div>
+
+                        <p style="font-size: 11px">Our tech-enabled waste infrastructure supports cities and public institutions in delivering
+                            efficient, accountable, and inclusive waste management services—while driving climate action at
+                            scale.</p>
+
+
+                        <div
+                            class="elementor-element elementor-element-56225efe elementor-widget elementor-widget-heading"
+                            data-id="56225efe" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h6 class="elementor-heading-title elementor-size-default">Construction & Demolition</h6>
+                            </div>
+
+
+                        </div>
+
+                        <p style="font-size: 11px">From concrete rubble to scrap metal and packaging debris, we help construction sites reduce
+                            landfill waste and recover valuable materials—building greener cities from the ground up.</p>
+
+
+
+                        <div
+                            class="elementor-element elementor-element-56225efe elementor-widget elementor-widget-heading"
+                            data-id="56225efe" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h6 class="elementor-heading-title elementor-size-default">Healthcare & Medical Facilities</h6>
+                            </div>
+
+
+                        </div>
+
+                        <p style="font-size: 11px">We provide certified, safe, and compliant solutions for hospitals, clinics, and labs—ensuring
+                            responsible disposal of hazardous, infectious, and biomedical waste.</p>
+
+
+                        <div
+                            class="elementor-element elementor-element-56225efe elementor-widget elementor-widget-heading"
+                            data-id="56225efe" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h6 class="elementor-heading-title elementor-size-default">Retail & Commercial Businesses</h6>
+                            </div>
+
+
+                        </div>
+
+                        <p style="font-size: 11px">We offer custom waste collection and recycling programs for retail chains, malls, and office
+                            complexes—boosting sustainability performance and reducing operational waste.</p>
+
+
+
+
+
+                    </div>
+
+
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <div style="margin-top: 30px" class="elementor-element elementor-element-170d1cd e-flex e-con-boxed e-con e-parent" data-id="170d1cd"
+             data-element_type="container">
+            <div class="e-con-inner">
+                <div
+                    class="elementor-element elementor-element-d7a6ce7 e-con-full e-flex elementor-invisible e-con e-child"
+                    data-id="d7a6ce7" data-element_type="container"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInDown&quot;}">
+                    <div
+                        class="elementor-element elementor-element-926e70a elementor-widget__width-auto elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading"
+                        data-id="926e70a" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h3 class="elementor-heading-title elementor-size-default">Subscribe to our Newsletter</h3>
+                        </div>
+                    </div>
+                    <div
+                        class="elementor-element elementor-element-d8fd8f1 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-rform"
+                        data-id="d8fd8f1" data-element_type="widget" data-widget_type="rform.default">
+                        <div class="elementor-widget-container">
+                            <form id="rform" data-form="1919">
+                                <div class="require-login msg">
+                                    <div class="require-msg-body">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="#FF0000"
+                                             class="bi bi-exclamation-circle-fill" viewBox="0 0 16 16">
+                                            <path
+                                                d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8 4a.905.905 0 0 0-.9.995l.35 3.507a.552.552 0 0 0 1.1 0l.35-3.507A.905.905 0 0 0 8 4zm.002 6a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
+                                        </svg>
+                                        <div style="width: 100% ;">
+                                            <h5>Required Login</h5>
+                                            Please Login for Submit Form.
+                                        </div>
+                                        <div>
+                                            <a type="button" class="close-msg">Close</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="success-submit msg">
+                                    <div class="success-body">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="#4CAF50"
+                                             class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                                            <path
+                                                d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+                                        </svg>
+                                        <div style="width: 100%;">
+                                            <h5>Success</h5>
+                                            Thank you! Form submitted successfully.
+                                        </div>
+                                        <div>
+                                            <a type="button" class="close-msg">Close</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <style>
+                                    .elementor-1919 .elementor-element.elementor-element-6c17146 {
+                                        --display: flex;
+                                        --flex-direction: row;
+                                        --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+                                        --container-widget-height: 100%;
+                                        --container-widget-flex-grow: 1;
+                                        --container-widget-align-self: stretch;
+                                        --flex-wrap-mobile: wrap;
+                                        --align-items: center;
+                                        --gap: 0px 0px;
+                                        --row-gap: 0px;
+                                        --column-gap: 0px;
+                                        --border-radius: 20px 20px 20px 20px;
+                                        --padding-top: 7px;
+                                        --padding-bottom: 7px;
+                                        --padding-left: 7px;
+                                        --padding-right: 7px;
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-6c17146:not(.elementor-motion-effects-element-type-background),
+                                    .elementor-1919 .elementor-element.elementor-element-6c17146 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+                                        background-color: var(--e-global-color-2154057);
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-98825ff .rform-input {
+                                        background-color: var(--e-global-color-2154057);
+                                        padding: 20px 20px 20px 20px;
+                                        margin: 0px 0px 0px 0px;
+                                        border-radius: 15px 15px 15px 15px;
+                                        color: var(--e-global-color-primary);
+                                        border-style: none;
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-98825ff {
+                                        width: var(--container-widget-width, 65%);
+                                        max-width: 65%;
+                                        --container-widget-width: 65%;
+                                        --container-widget-flex-grow: 0;
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-98825ff .rform-input:hover {
+                                        color: var(--e-global-color-primary);
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-98825ff .rform-input:focus {
+                                        color: var(--e-global-color-primary);
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-98825ff .rform-input[aria-invalid="true"] {
+                                        color: var(--e-global-color-0949651);
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-98825ff .rform-input::placeholder {
+                                        color: var(--e-global-color-a6895b3);
+                                        font-family: var(--e-global-typography-cc5f622-font-family), Sans-serif;
+                                        font-size: var(--e-global-typography-cc5f622-font-size);
+                                        font-weight: var(--e-global-typography-cc5f622-font-weight);
+                                        line-height: var(--e-global-typography-cc5f622-line-height);
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-98825ff .rform-input::-webkit-input-placeholder {
+                                        color: var(--e-global-color-a6895b3);
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-98825ff .rform-input::-ms-input-placeholder {
+                                        color: var(--e-global-color-a6895b3);
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-98825ff .rform-error {
+                                        text-align: left;
+                                        color: var(--e-global-color-0949651);
+                                        font-family: var(--e-global-typography-cc5f622-font-family), Sans-serif;
+                                        font-size: var(--e-global-typography-cc5f622-font-size);
+                                        font-weight: var(--e-global-typography-cc5f622-font-weight);
+                                        line-height: var(--e-global-typography-cc5f622-line-height);
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-f5e3e6f {
+                                        width: var(--container-widget-width, 35%);
+                                        max-width: 35%;
+                                        --container-widget-width: 35%;
+                                        --container-widget-flex-grow: 0;
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-f5e3e6f .rform-button-submit {
+                                        padding: 25px 20px 25px 20px;
+                                        font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+                                        font-size: var(--e-global-typography-accent-font-size);
+                                        font-weight: var(--e-global-typography-accent-font-weight);
+                                        line-height: var(--e-global-typography-accent-line-height);
+                                        border-style: none;
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-f5e3e6f .rform-button-submit,
+                                    .elementor-1919 .elementor-element.elementor-element-f5e3e6f .loading {
+                                        border-radius: 15px 15px 15px 15px;
+                                    }
+
+                                    .elementor-1919 .elementor-element.elementor-element-f5e3e6f .rform-button-submit:hover {
+                                        border-style: none;
+                                    }
+
+                                    @media (max-width: 1024px) {
+                                        .elementor-1919 .elementor-element.elementor-element-98825ff .rform-input::placeholder {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+
+                                        .elementor-1919 .elementor-element.elementor-element-98825ff .rform-error {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+
+                                        .elementor-1919 .elementor-element.elementor-element-f5e3e6f .rform-button-submit {
+                                            font-size: var(--e-global-typography-accent-font-size);
+                                            line-height: var(--e-global-typography-accent-line-height);
+                                        }
+                                    }
+
+                                    @media (max-width: 767px) {
+                                        .elementor-1919 .elementor-element.elementor-element-6c17146 {
+                                            --gap: 10px 0px;
+                                            --row-gap: 10px;
+                                            --column-gap: 0px;
+                                        }
+
+                                        .elementor-1919 .elementor-element.elementor-element-98825ff {
+                                            width: 100%;
+                                            max-width: 100%;
+                                        }
+
+                                        .elementor-1919 .elementor-element.elementor-element-98825ff .rform-input::placeholder {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+
+                                        .elementor-1919 .elementor-element.elementor-element-98825ff .rform-error {
+                                            font-size: var(--e-global-typography-cc5f622-font-size);
+                                            line-height: var(--e-global-typography-cc5f622-line-height);
+                                        }
+
+                                        .elementor-1919 .elementor-element.elementor-element-f5e3e6f {
+                                            width: var(--container-widget-width, 100%);
+                                            max-width: 100%;
+                                            --container-widget-width: 100%;
+                                            --container-widget-flex-grow: 0;
+                                        }
+
+                                        .elementor-1919 .elementor-element.elementor-element-f5e3e6f .rform-button-submit {
+                                            font-size: var(--e-global-typography-accent-font-size);
+                                            line-height: var(--e-global-typography-accent-line-height);
+                                        }
+                                    }
+                                </style>
+                                <div data-elementor-type="wp-post" data-elementor-id="1919"
+                                     class="elementor elementor-1919">
+                                    <div
+                                        class="elementor-element elementor-element-6c17146 e-con-full e-flex e-con e-parent"
+                                        data-id="6c17146" data-element_type="container"
+                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                        <div
+                                            class="elementor-element elementor-element-98825ff elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-email"
+                                            data-id="98825ff" data-element_type="widget"
+                                            data-widget_type="email.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="rform-container">
+                                                    <div class="rform-control ">
+                                                        <input name="rform-email" placeholder="Your Email"
+                                                               class="rform-input" id="rform-input-email-159917567"
+                                                               type="email"
+                                                               onblur="validate_input( 'rform-input-email-' , 'rform-input-err-' ,'159917567')"
+                                                               aria-invalid=false data-val="by_char" required>
+                                                    </div>
+                                                    <span role="alert" class="rform-error"
+                                                          id="rform-input-err-159917567">This field is required</span>
+                                                    <div class="rform-help-text">
+                                                        <span></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="elementor-element elementor-element-f5e3e6f elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-rform_button_submit"
+                                            data-id="f5e3e6f" data-element_type="widget"
+                                            data-widget_type="rform_button_submit.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="rform-button-container">
+                                                    <button class="rform-button-submit rform-btn-fullwidth"
+                                                            type="button" id="rform-button-submit">
+                                                        Subscribe Now
+                                                        <div class="loading">
+                                                            <div id="loading"></div>
+                                                        </div>
+                                                    </button>
+                                                </div>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ekit-template-content-markup ekit-template-content-footer ekit-template-content-theme-support">
+        <div data-elementor-type="wp-post" data-elementor-id="875" class="elementor elementor-875">
+            <div class="elementor-element elementor-element-7515c32 e-flex e-con-boxed e-con e-parent" data-id="7515c32"
+                 data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="e-con-inner">
+                    <div class="elementor-element elementor-element-5fe9efa e-con-full e-flex e-con e-child"
+                         data-id="5fe9efa" data-element_type="container"
+                         data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                        <div
+                            class="elementor-element elementor-element-54e9797 e-con-full e-flex elementor-invisible e-con e-child"
+                            data-id="54e9797" data-element_type="container"
+                            data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                            <div
+                                class="elementor-element elementor-element-41b86c9 elementor-widget elementor-widget-heading"
+                                data-id="41b86c9" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default">Ready to Elevate your
+                                        Waste Management.</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div
+                            class="elementor-element elementor-element-8752481 e-con-full e-flex elementor-invisible e-con e-child"
+                            data-id="8752481" data-element_type="container"
+                            data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
+                            <div
+                                class="elementor-element elementor-element-81dbc19 elementor-widget elementor-widget-button"
+                                data-id="81dbc19" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
+                                           href="index.html#">
+                                            <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
+                     xmlns="http://www.w3.org/2000/svg"><path
+                        d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>			</span>
+                                            <span class="elementor-button-text">Sign Up For Free</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-d41285a elementor-widget elementor-widget-button"
+                                data-id="d41285a" data-element_type="widget" data-widget_type="button.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-button-wrapper">
+                                        <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-shrink"
+                                           href="index.html#">
+                                            <span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Learn More</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-b613e97 e-con-full e-flex e-con e-child"
+                         data-id="b613e97" data-element_type="container">
+                        <div class="elementor-element elementor-element-66cde89 e-con-full e-flex e-con e-child"
+                             data-id="66cde89" data-element_type="container">
+                            <div
+                                class="elementor-element elementor-element-0531c90 elementor-widget elementor-widget-image"
+                                data-id="0531c90" data-element_type="widget" data-widget_type="image.default">
+                                <div class="elementor-widget-container">
+                                    <img width="800" height="266"
+                                         src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-Light-1024x341.png"
+                                         class="attachment-large size-large wp-image-959" alt=""
+                                         srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-Light-1024x341.png 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-Light-300x100.png 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-Light-768x256.png 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-Light-1536x511.png 1536w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-Light-2048x682.png 2048w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/Breno-Logo-Light-800x266.png 800w"
+                                         sizes="(max-width: 800px) 100vw, 800px"/></div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-5ff4fe7 elementor-widget elementor-widget-text-editor"
+                                data-id="5ff4fe7" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p>Lorem ipsum dolor sit amet consect adipiscing elit ut elit tellus luctus nec
+                                        ullamcorper mattis pulvinar dapibus leo.</p>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-58118e0 e-con-full e-flex e-con e-child"
+                                 data-id="58118e0" data-element_type="container">
+                                <div
+                                    class="elementor-element elementor-element-07915e0 elementor-widget elementor-widget-heading"
+                                    data-id="07915e0" data-element_type="widget" data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                        <h5 class="elementor-heading-title elementor-size-default">Follow Us : </h5>
+                                    </div>
+                                </div>
+                                <div
+                                    class="elementor-element elementor-element-0bf75ca elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
+                                    data-id="0bf75ca" data-element_type="widget"
+                                    data-widget_type="social-icons.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-social-icons-wrapper elementor-grid">
+                                            <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-f104d87"
+                       target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+                                            <svg class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512"
+                                                 xmlns="http://www.w3.org/2000/svg"><path
+                                                    d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>                                            </a>
+                                            </span>
+                                            <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-x-twitter-square elementor-repeater-item-d1901c6"
+                       target="_blank">
+						<span class="elementor-screen-only">X-twitter-square</span>
+                                            <svg class="e-font-icon-svg e-fab-x-twitter-square" viewBox="0 0 448 512"
+                                                 xmlns="http://www.w3.org/2000/svg"><path
+                                                    d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm297.1 84L257.3 234.6 379.4 396H283.8L209 298.1 123.3 396H75.8l111-126.9L69.7 116h98l67.7 89.5L313.6 116h47.5zM323.3 367.6L153.4 142.9H125.1L296.9 367.6h26.3z"></path></svg>                                            </a>
+                                            </span>
+                                            <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-bde1053"
+                       target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+                                            <svg class="e-font-icon-svg e-fab-linkedin-in" viewBox="0 0 448 512"
+                                                 xmlns="http://www.w3.org/2000/svg"><path
+                                                    d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg>                                            </a>
+                                            </span>
+                                            <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-dribbble elementor-repeater-item-b1a74a6"
+                       target="_blank">
+						<span class="elementor-screen-only">Dribbble</span>
+                                            <svg class="e-font-icon-svg e-fab-dribbble" viewBox="0 0 512 512"
+                                                 xmlns="http://www.w3.org/2000/svg"><path
+                                                    d="M256 8C119.252 8 8 119.252 8 256s111.252 248 248 248 248-111.252 248-248S392.748 8 256 8zm163.97 114.366c29.503 36.046 47.369 81.957 47.835 131.955-6.984-1.477-77.018-15.682-147.502-6.818-5.752-14.041-11.181-26.393-18.617-41.614 78.321-31.977 113.818-77.482 118.284-83.523zM396.421 97.87c-3.81 5.427-35.697 48.286-111.021 76.519-34.712-63.776-73.185-116.168-79.04-124.008 67.176-16.193 137.966 1.27 190.061 47.489zm-230.48-33.25c5.585 7.659 43.438 60.116 78.537 122.509-99.087 26.313-186.36 25.934-195.834 25.809C62.38 147.205 106.678 92.573 165.941 64.62zM44.17 256.323c0-2.166.043-4.322.108-6.473 9.268.19 111.92 1.513 217.706-30.146 6.064 11.868 11.857 23.915 17.174 35.949-76.599 21.575-146.194 83.527-180.531 142.306C64.794 360.405 44.17 310.73 44.17 256.323zm81.807 167.113c22.127-45.233 82.178-103.622 167.579-132.756 29.74 77.283 42.039 142.053 45.189 160.638-68.112 29.013-150.015 21.053-212.768-27.882zm248.38 8.489c-2.171-12.886-13.446-74.897-41.152-151.033 66.38-10.626 124.7 6.768 131.947 9.055-9.442 58.941-43.273 109.844-90.795 141.978z"></path></svg>                                            </a>
+                                            </span>
+                                            <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-js elementor-repeater-item-3bc8fc6"
+                       target="_blank">
+						<span class="elementor-screen-only">Js</span>
+                                            <svg class="e-font-icon-svg e-fab-js" viewBox="0 0 448 512"
+                                                 xmlns="http://www.w3.org/2000/svg"><path
+                                                    d="M0 32v448h448V32H0zm243.8 349.4c0 43.6-25.6 63.5-62.9 63.5-33.7 0-53.2-17.4-63.2-38.5l34.3-20.7c6.6 11.7 12.6 21.6 27.1 21.6 13.8 0 22.6-5.4 22.6-26.5V237.7h42.1v143.7zm99.6 63.5c-39.1 0-64.4-18.6-76.7-43l34.3-19.8c9 14.7 20.8 25.6 41.5 25.6 17.4 0 28.6-8.7 28.6-20.8 0-14.4-11.4-19.5-30.7-28l-10.5-4.5c-30.4-12.9-50.5-29.2-50.5-63.5 0-31.6 24.1-55.6 61.6-55.6 26.8 0 46 9.3 59.8 33.7L368 290c-7.2-12.9-15-18-27.1-18-12.3 0-20.1 7.8-20.1 18 0 12.6 7.8 17.7 25.9 25.6l10.5 4.5c35.8 15.3 55.9 31 55.9 66.2 0 37.8-29.8 58.6-69.7 58.6z"></path></svg>                                            </a>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-b8ac200 e-con-full e-flex e-con e-child"
+                             data-id="b8ac200" data-element_type="container">
+                            <div
+                                class="elementor-element elementor-element-23d6696 elementor-widget elementor-widget-heading"
+                                data-id="23d6696" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Company</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-d8d7f48 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                                data-id="d8d7f48" data-element_type="widget" data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                        <li class="elementor-icon-list-item">
+                                            <a href="index.html#">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                                <span class="elementor-icon-list-text">Home</span>
+                                            </a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <a href="index.html#">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                                <span class="elementor-icon-list-text">About Us</span>
+                                            </a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <a href="index.html#">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                                <span class="elementor-icon-list-text">Services</span>
+                                            </a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <a href="index.html#">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                                <span class="elementor-icon-list-text">Project</span>
+                                            </a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <a href="index.html#">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                                <span class="elementor-icon-list-text">Blog</span>
+                                            </a>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <a href="index.html#">
+
+                                                <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                                <span class="elementor-icon-list-text">Contact Us</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-fdc6eee e-con-full e-flex e-con e-child"
+                             data-id="fdc6eee" data-element_type="container">
+                            <div
+                                class="elementor-element elementor-element-84b2f89 elementor-widget elementor-widget-heading"
+                                data-id="84b2f89" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Our Services</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-2f6678a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                                data-id="2f6678a" data-element_type="widget" data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Waste Collection</span>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Recycling Services</span>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Hazardous Waste Disposal</span>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Organic Waste Management</span>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Sustainability Consulting</span>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right"
+                                 viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path
+                                    d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>						</span>
+                                            <span class="elementor-icon-list-text">Industrial Waste Solutions</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-ba92072 e-con-full e-flex e-con e-child"
+                             data-id="ba92072" data-element_type="container">
+                            <div
+                                class="elementor-element elementor-element-0509164 elementor-widget elementor-widget-heading"
+                                data-id="0509164" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h4 class="elementor-heading-title elementor-size-default">Contact Info</h4>
+                                </div>
+                            </div>
+                            <div
+                                class="elementor-element elementor-element-71d9a79 elementor-widget elementor-widget-text-editor"
+                                data-id="71d9a79" data-element_type="widget" data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p>Have questions or need assistance? Our team is here to help – don’t hesitate to
+                                        reach out.</p>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-45cff86 e-con-full e-flex e-con e-child"
+                                 data-id="45cff86" data-element_type="container">
+                                <div class="elementor-element elementor-element-a018192 e-con-full e-flex e-con e-child"
+                                     data-id="a018192" data-element_type="container">
+                                    <div
+                                        class="elementor-element elementor-element-0f819dd elementor-view-default elementor-widget elementor-widget-icon"
+                                        data-id="0f819dd" data-element_type="widget" data-widget_type="icon.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-icon-wrapper">
+                                                <div class="elementor-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-phone-alt"
+                                                         viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-d4ff7ef e-con-full e-flex e-con e-child"
+                                     data-id="d4ff7ef" data-element_type="container">
+                                    <div
+                                        class="elementor-element elementor-element-af3de8e elementor-widget elementor-widget-heading"
+                                        data-id="af3de8e" data-element_type="widget" data-widget_type="heading.default">
+                                        <div class="elementor-widget-container">
+                                            <h5 class="elementor-heading-title elementor-size-default">
+                                                +0761-8523-398</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-47f7287 e-con-full e-flex e-con e-child"
+                                 data-id="47f7287" data-element_type="container">
+                                <div class="elementor-element elementor-element-6235cd1 e-con-full e-flex e-con e-child"
+                                     data-id="6235cd1" data-element_type="container">
+                                    <div
+                                        class="elementor-element elementor-element-9c42517 elementor-view-default elementor-widget elementor-widget-icon"
+                                        data-id="9c42517" data-element_type="widget" data-widget_type="icon.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-icon-wrapper">
+                                                <div class="elementor-icon">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-fas-envelope"
+                                                         viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                                        <path
+                                                            d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path>
+                                                    </svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-9cf128c e-con-full e-flex e-con e-child"
+                                     data-id="9cf128c" data-element_type="container">
+                                    <div
+                                        class="elementor-element elementor-element-d51383a elementor-widget elementor-widget-heading"
+                                        data-id="d51383a" data-element_type="widget" data-widget_type="heading.default">
+                                        <div class="elementor-widget-container">
+                                            <h5 class="elementor-heading-title elementor-size-default">
+                                                hello@domainsite.com</h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+@endsection
