@@ -190,7 +190,7 @@
                             <img decoding="async" width="1500" height="1000"
                                  src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker.png"
                                  class="attachment-full size-full wp-image-126" alt=""
-                                 srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker.png 1500w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/keeping-the-city-clean-cropped-shot-of-a-team-of-g-UGACJYL-300x200.jpg 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/keeping-the-city-clean-cropped-shot-of-a-team-of-g-UGACJYL-1024x683.jpg 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/keeping-the-city-clean-cropped-shot-of-a-team-of-g-UGACJYL-768x512.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/keeping-the-city-clean-cropped-shot-of-a-team-of-g-UGACJYL-800x533.jpg 800w"
+                                 srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker.png 1500w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker.png 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker.png 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker.png 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/blackworker.png 800w"
                                  sizes="(max-width: 1500px) 100vw, 1500px"/></div>
                     </div>
                 </div>
@@ -256,6 +256,34 @@
                 </div>
             </div>
         </div>
+
+
+
+
+
+
+        <div style="margin-top: 30px" class="elementor-element elementor-element-170d1cd e-flex e-con-boxed e-con e-parent" data-id="170d1cd"
+             data-element_type="container">
+            <div class="e-con-inner">
+
+
+                <div
+                    data-id="d7a6ce7" data-element_type="container"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInDown&quot;}">
+
+
+                    <img decoding="async" width="1500" height="1000"
+                         src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/award.png"
+                         class="attachment-full size-full wp-image-126" alt=""
+                         srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/award.png 1500w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/award.png 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/award.png 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/award.png 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/award.png 800w"
+                         sizes="(max-width: 1500px) 100vw, 1500px"/>
+
+                </div>
+            </div>
+        </div>
+
+
+
 
         <div class="elementor-element elementor-element-32c79cc8 e-flex e-con-boxed e-con e-parent" data-id="32c79cc8"
              data-element_type="container">
@@ -1757,6 +1785,8 @@
                 </div>
             </div>
         </div>
+
+
     </div>
 
 @endsection
