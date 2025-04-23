@@ -396,7 +396,7 @@
                                 <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
                                         <a class="elementor-button elementor-button-link elementor-size-sm"
-                                           href="waste-collection">
+                                           href="service?id=1">
                                             <span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
@@ -465,7 +465,7 @@
                                 <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
                                         <a class="elementor-button elementor-button-link elementor-size-sm"
-                                           href="organic-waste">
+                                           href="service?id=2">
                                             <span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"
@@ -533,7 +533,7 @@
                                 <div class="elementor-widget-container">
                                     <div class="elementor-button-wrapper">
                                         <a class="elementor-button elementor-button-link elementor-size-sm"
-                                           href="plastic-recycling">
+                                           href="service?id=3">
                                             <span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-circle-right" viewBox="0 0 512 512"

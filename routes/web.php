@@ -24,6 +24,7 @@ Route::get('/',  [ItemController::class,'index']);
 Route::get('who-we-are',  [ItemController::class,'who_we_are']);
 Route::get('contact-us',  [ItemController::class,'contact_us']);
 Route::post('submit-form',  [ItemController::class,'submit_form']);
+Route::get('service',  [ItemController::class,'service']);
 Route::post('login',  [ItemController::class,'login']);
 
 
