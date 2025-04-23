@@ -121,9 +121,9 @@
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="800" height="534"
-                                         src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.jpg"
+                                         src="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.png"
                                          class="attachment-large size-large wp-image-656" alt=""
-                                         srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.jpg 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.jpg 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.jpg 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.jpg 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.jpg 1500w"
+                                         srcset="{{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.png 1024w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.png 300w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.png 768w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.jpg 800w, {{url('')}}/public/wp-content/uploads/sites/12/2025/03/pile-of-garbage-and-backhoe-at-waste-depot-rubbish-XHYS36X-1.png 1500w"
                                          sizes="(max-width: 800px) 100vw, 800px"/></div>
                             </div>
                         </div>

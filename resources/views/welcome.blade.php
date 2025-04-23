@@ -1,8 +1,7 @@
 @extends('layout.main')
 @section('content')
 
-    <body
-        class="home page-template page-template-elementor_header_footer page page-id-1070 wp-custom-logo wp-embed-responsive theme-default elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-1070">
+    <body class="home page-template page-template-elementor_header_footer page page-id-1070 wp-custom-logo wp-embed-responsive theme-default elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-1070">
 
     @extends('layout.menu')
 
@@ -31,8 +30,9 @@
                         class="elementor-element elementor-element-67f46595 elementor-widget__width-initial elementor-widget elementor-widget-text-editor"
                         data-id="67f46595" data-element_type="widget" data-widget_type="text-editor.default">
                         <div class="elementor-widget-container">
-                            <p>Clean-tech waste management, recycling, and carbon sequestration company—designed for
-                                scale, impact, and sustainability.</p>
+                            <p>We are managing waste for a population of 4million people and
+                                collecting waste from an estimated 200,000 residential properties and 216,500 commercial
+                                properties.</p>
                         </div>
                     </div>
                     <div class="elementor-element elementor-element-35df1d44 e-con-full e-flex e-con e-child"
@@ -74,7 +74,7 @@
                 <div
                     class="elementor-element elementor-element-11bc1bb3 e-con-full elementor-hidden-mobile e-flex elementor-invisible e-con e-child"
                     data-id="11bc1bb3" data-element_type="container"
-                    data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:29,&quot;url&quot;:&quot;{{url('')}}/public/wp-content\/uploads\/sites\/12\/2025\/03\/waste1.jpg&quot;},{&quot;id&quot;:30,&quot;url&quot;:&quot;{{url('')}}/public/wp-content\/uploads\/sites\/12\/2025\/03\/waste2.jpg&quot;},{&quot;id&quot;:31,&quot;url&quot;:&quot;{{url('')}}/public/wp-content\/uploads\/sites\/12\/2025\/03\/truck2.jpg&quot;}],&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+                    data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:29,&quot;url&quot;:&quot;{{url('')}}/public/wp-content\/uploads\/sites\/12\/2025\/03\/waste1.jpg&quot;},{&quot;id&quot;:30,&quot;url&quot;:&quot;{{url('')}}/public/wp-content\/uploads\/sites\/12\/2025\/03\/waste2.png&quot;},{&quot;id&quot;:31,&quot;url&quot;:&quot;{{url('')}}/public/wp-content\/uploads\/sites\/12\/2025\/03\/truck2.jpg&quot;}],&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
                     <div class="elementor-element elementor-element-1ff64dd0 e-con-full e-flex e-con e-child"
                          data-id="1ff64dd0" data-element_type="container">
                     </div>
@@ -86,7 +86,7 @@
                             data-id="6e3288fa" data-element_type="widget" data-widget_type="icon.default">
                             <div class="elementor-widget-container">
                                 <div class="elementor-icon-wrapper">
-                                    <a class="elementor-icon" href="index.html#">
+                                    <a class="elementor-icon" href="#">
                                         <i aria-hidden="true" class="icon icon-play-button"></i> </a>
                                 </div>
                             </div>
@@ -269,9 +269,6 @@
 
         <div style="margin-top: 30px" class="elementor-element elementor-element-170d1cd e-flex e-con-boxed e-con e-parent" data-id="170d1cd"
              data-element_type="container">
-
-
-
 
 
             <div class="e-con-inner">
