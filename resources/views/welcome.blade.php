@@ -1,6 +1,11 @@
 @extends('layout.main')
 @section('content')
 
+    <body
+        class="home page-template page-template-elementor_header_footer page page-id-1070 wp-custom-logo wp-embed-responsive theme-default elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-1070">
+
+    @extends('layout.menu')
+
     <div data-elementor-type="wp-page" data-elementor-id="1070" class="elementor elementor-1070">
         <div class="elementor-element elementor-element-388e07c7 e-flex e-con-boxed e-con e-parent" data-id="388e07c7"
              data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -264,7 +269,14 @@
 
         <div style="margin-top: 30px" class="elementor-element elementor-element-170d1cd e-flex e-con-boxed e-con e-parent" data-id="170d1cd"
              data-element_type="container">
+
+
+
+
+
             <div class="e-con-inner">
+
+
 
 
                 <div
@@ -893,13 +905,17 @@
                         class="elementor-element elementor-element-41461a50 elementor-widget elementor-widget-text-editor"
                         data-id="41461a50" data-element_type="widget" data-widget_type="text-editor.default">
                         <div class="elementor-widget-container">
-                            <p>Start Your Eco-Friendly Journey with Us, <a href="index.html#">Explore Our Services</a>
+                            <p>Start Your Eco-Friendly Journey with Us
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
+
+
+
         <div class="elementor-element elementor-element-4ac793a e-flex e-con-boxed e-con e-parent" data-id="4ac793a"
              data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="e-con-inner">
@@ -1159,6 +1175,7 @@
                 </div>
             </div>
         </div>
+
         <div class="elementor-element elementor-element-694978df e-flex e-con-boxed e-con e-parent" data-id="694978df"
              data-element_type="container">
             <div class="e-con-inner">
@@ -1332,6 +1349,8 @@
                 </div>
             </div>
         </div>
+
+
         <div class="elementor-element elementor-element-510f6fed e-flex e-con-boxed e-con e-parent" data-id="510f6fed"
              data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="e-con-inner">
@@ -1788,5 +1807,5 @@
 
 
     </div>
-
+    </body>
 @endsection
