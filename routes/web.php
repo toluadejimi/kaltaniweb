@@ -22,8 +22,8 @@ use App\Http\Controllers\ItemController;
 
 Route::get('/',  [ItemController::class,'index']);
 Route::get('who-we-are',  [ItemController::class,'who_we_are']);
-
-
+Route::get('contact-us',  [ItemController::class,'contact_us']);
+Route::post('submit-form',  [ItemController::class,'submit_form']);
 Route::post('login',  [ItemController::class,'login']);
 
 

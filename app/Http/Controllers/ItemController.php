@@ -37,6 +37,18 @@ class ItemController extends Controller
 
     }
 
+    public function contact_us(request $request)
+    {
+        return view('contact-us');
+
+    }
+
+    public function submit_form(request $request)
+    {
+        return view('contact-us');
+
+    }
+
 
 
 
