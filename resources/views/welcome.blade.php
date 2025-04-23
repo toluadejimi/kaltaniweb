@@ -3,6 +3,9 @@
 
     <body class="home page-template page-template-elementor_header_footer page page-id-1070 wp-custom-logo wp-embed-responsive theme-default elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-1070">
 
+
+    @extends('layout.loader')
+
     @extends('layout.menu')
 
     <div data-elementor-type="wp-page" data-elementor-id="1070" class="elementor elementor-1070">
