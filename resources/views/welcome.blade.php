@@ -34,7 +34,7 @@
                         data-id="67f46595" data-element_type="widget" data-widget_type="text-editor.default">
                         <div class="elementor-widget-container">
                             <p>We are managing waste for a population of 4million people and
-                                collecting waste from over 800,000 households</p>
+                                collecting waste from over 800,000 households.</p>
                         </div>
                     </div>
                     <div class="elementor-element elementor-element-35df1d44 e-con-full e-flex e-con e-child"
